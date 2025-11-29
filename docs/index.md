@@ -54,12 +54,13 @@ No mundo acolhedor e vibrante de Purrfect Kitten, cada jogador tem a chance de c
 ### 1.5 Pitch em 2 Linhas  
 Construir seu próprio gatinho perfeito em um mundo fofo, mágico e cheio de personalidade. E ainda ser premiado por isso!
 
-<!-- Nível: Intermediate
+<!-- Nível: Intermediate-->
 ### 1.6 Principais Referências  
-_(outros jogos, mídias, inspirações)_
+- Canvas;<br>
+![Exemplos de funcionamento dos cards em Canvas](images/reference/ref_Canvas.png)
+- Flight Rising;<br>
+![Exemplos de silhueta e cores em Flight Rising](images/reference/ref_FR.png)
 
-_(Descrição aqui)_
--->
 
 <!-- Nível: Completo
 ### 1.7 Estado Atual do Projeto e Objetivo do Documento  
@@ -85,19 +86,15 @@ A ser testado, mas, o estimado é entre 30-45 minutos.
 - Mínimo: 2 jogadores.
 - Máximo: 4 jogadores.
 
-<!-- Nível: Intermediate
+<!-- Nível: Intermediate-->
 ### 2.4 Nível de Complexidade  
-_(gateway, familiar, médio, pesado; target BGG weight se quiser)_
+Jogos Familiares/Gateway.
 
-_(Descrição aqui)_
--->
 
-<!-- Nível: Intermediate
+<!-- Nível: Intermediate-->
 ### 2.5 Tipo de Experiência Desejada  
-_(competitivo, caótico, estratégico, relax, “take that”, etc.)_
+Majoritariamente relaxada com pequenos momentos de caos ou competitividade na seleção de cartas.
 
-_(Descrição aqui)_
--->
 
 <!-- Nível: Completo
 ### 2.6 Escopo Inicial vs Escopo Final  
@@ -106,32 +103,43 @@ _(o que é obrigatório vs o que é “nice to have”)_
 _(Descrição aqui)_
 -->
 
-<!-- Nível: Completo
+<!-- Nível: Completo-->
 ### 2.7 Restrições do Projeto  
-_(tempo, impressão caseira, custo, tipo de material, etc.)_
+O projeto deve estar concluído para entrega no TCC da Pós.
 
-_(Descrição aqui)_
--->
 
 ---
 
-<!-- Toda a seção 3 é no mínimo Intermediate, então fica comentada por enquanto
+<!-- Toda a seção 3 é no mínimo Intermediate, então fica comentada por enquanto-->
 ## 3. Componentes
 
 ### 3.1 Lista de Componentes  
-*(cartas, tabuleiros, tokens, marcadores, dados, player aids…)*
+- Cartas base com o lineart dos gatinhos;<br>
+- Cartas de camada impressas em transparência para composição dos gatinhos;<br>
+- Token/Ficha para compra de cartas avançadas na fila do mercado de customização;<br>
+- Token/Ficha para a premiação de cada gatinho ou conjunto de gatinhos;<br>
+- Manual;<br>
+- Caixa.
 
 ### 3.2 Quantidade de Cada Componente
 
-### 3.3 Especificações Físicas  
-*(tamanho de carta, tipo de papel, formato de token, etc.)*
+<!-- ### 3.3 Especificações Físicas  
+*(tamanho de carta, tipo de papel, formato de token, etc.)*-->
 
 ### 3.4 Arte / Iconografia por Componente  
-*(ícones que aparecem, posições, elementos fixos)*
+
+#### 3.4.1 Carta base de gatinho
+- Lineart do gatinho no centro da carta;<br>
+- Área inferior reservada para os símbolos de origem;<br>
+- Background.
+
+#### 3.4.2 Cartas de camada
+- Figura com a adição ao lineart no meio da carta, encaixando com o lineart;<br>
+- Símbolos na área inferior apontando a origem daquela camada/tipo dela.
 
 ### 3.5 Versão de Protótipo  
-*(como será montado o protótipo: papel comum, sleeves, etc.)*
--->
+Protótipo inicial deve ser impresso em sulfite visando prototipagem rápida e barata para execuitar o máximo de design loops sem dó de tacar tudo fora se necessário.
+
 
 ---
 
@@ -260,14 +268,12 @@ _(Descrição aqui)_
 
 <!-- Nível: Compacto -->
 ### 7.1 Estilo Visual Geral  
-_Eestética kawaii moderna com influências de ilustração digital suave, criando um universo aconchegante, colorido e imediatamente atraente. A arte prioriza formas arredondadas, cores acolhedoras e expressões fofas, transmitindo leveza e emoção em cada carta._
-_O jogo abraça um visual cozy + cute, com personagens que equilibram simplicidade, carisma e espaço para personalização. Cada gatinho deve parecer um pequeno mascote mágico que os jogadores têm orgulho de montar e exibir._
+Estética kawaii moderna, criando um universo aconchegante, colorido e fofo. A arte prioriza formas arredondadas, cores acolhedoras e expressões fofas, transmitindo leveza e emoção em cada carta.
+O jogo abraça um visual cozy + cute, com personagens que equilibram simplicidade, carisma e espaço para personalização. Cada gatinho deve parecer um pequeno mascote mágico que os jogadores têm orgulho de montar e exibir.
 
-<!-- Nível: Intermediate
+<!-- Nível: Intermediate-->
 ### 7.2 Paleta de Cor
-
-_(Descrição aqui)_
--->
+![Paleta Inicial](images/reference/palette.jpg)
 
 <!-- Nível: Completo
 ### 7.3 Silhuetas  
@@ -275,17 +281,16 @@ _(Descrição aqui)_
 _(Descrição aqui)_
 -->
 
-<!-- Nível: Intermediate
+<!-- Nível: Intermediate-->
 ### 7.4 Moodboard / Referências Visuais
+![Referência dos Gatinhos](images/reference/ref_Cat.png)
 
-_(Descrição aqui)_
--->
 
-<!-- Nível: Intermediate
+<!-- Nível: Intermediate-->
 ### 7.5 Referências de Arte (Outros Jogos, Mídias)
+- Mystic Moon;<br>
+![Mystic Moon](images/artstyle/MysticMoon.webp)
 
-_(Descrição aqui)_
--->
 
 <!-- Nível: Completo-->
 ### 7.6 Diretrizes de Arte para Cartas e Tabuleiros
@@ -341,7 +346,7 @@ Linguagem de Formas: <br>
 
 <!-- Nível: Compacto -->
 ### 10.4 Layout de Protótipo  
-_Iniciar com apenas lineart e sketches pq impressão em transparência é cara. Se controla, Xofana._
+Iniciar com apenas lineart e sketches pq impressão em transparência é cara. Se controla, Xofana.
 
 ---
 
