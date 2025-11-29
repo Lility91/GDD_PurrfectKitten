@@ -57,9 +57,9 @@ Construir seu próprio gatinho perfeito em um mundo fofo, mágico e cheio de per
 <!-- Nível: Intermediate-->
 ### 1.6 Principais Referências  
 - Canvas;<br>
-![Exemplos de funcionamento dos cards em Canvas](images/reference/ref_Canvas.png)
+![Exemplos de funcionamento dos cards em Canvas](images/reference/Ref_Canvas.png)
 - Flight Rising;<br>
-![Exemplos de silhueta e cores em Flight Rising](images/reference/ref_FR.png)
+![Exemplos de silhueta e cores em Flight Rising](images/reference/Ref_FR.png)
 
 
 <!-- Nível: Completo
