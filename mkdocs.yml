@@ -1,0 +1,9 @@
+site_name: GDD - Purrfect Kitten
+
+theme:
+  name: null
+  custom_dir: mkdocs_dracula_theme
+
+nav:
+  - Home: index.md
+
