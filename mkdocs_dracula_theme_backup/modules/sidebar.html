@@ -1,18 +1,3 @@
-{% macro render_toc(items) %}
-<ul class="mb-3 drac-list drac-list-none pk-sidebar-toc">
-  {% for item in items %}
-    <li>
-      <a class="drac-anchor drac-text-grey-ternary drac-text-purple--hover" href="{{ item.url }}">
-        {{ item.title|safe }}
-      </a>
-      {% if item.children %}
-        {{ render_toc(item.children) }}
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
-{% endmacro %}
-
 <nav id="sidebar" class="sidebar drac-bg-black">
     <div class="custom-menu">
         <button type="button" id="sidebarCollapse" class="btn btn-primary">
@@ -51,13 +36,5 @@
             {% include "modules/menu.html" %}
         </ul>
         <!-- endblock -->
-
-        {% if page and page.toc %}
-        <div class="drac-text-small drac-text-grey-ternary drac-mb-xs">
-            Nesta página
-        </div>
-        {{ render_toc(page.toc) }}
-    {% endif %}
-
     </div>
 </nav>

@@ -1,11 +1,11 @@
 # GDD – Purrfect Kitten
 
-> Versão do documento: 0.2  
+> Versão do documento: 0.1  
 > Última atualização: _[28/12/2025]_
 
 ---
 
-## Sumário
+<!--## Sumário
 
 - [1. Visão Geral / Pitch](#1-visão-geral--pitch)
 - [2. Objetivos & Escopo](#2-objetivos--escopo)
@@ -14,7 +14,7 @@
 - [7. Arte, Tema e Direção de Arte](#7-arte-tema-e-direção-de-arte)
 - [10. Prototipagem e Iteração](#10-prototipagem-e-iteração)
 - [14. Glossário](#14-glossário)
-- [15. Créditos & Histórico de Revisão](#15-créditos--histórico-de-revisão)
+- [15. Créditos & Histórico de Revisão](#15-créditos--histórico-de-revisão)-->
 
 ---
 
@@ -24,33 +24,35 @@
 <!-- Nível: Compacto -->
 ### 1.1 Nome do Jogo
 
-_Purrfect Kitten_
+Purrfect Kitten
 
 <!-- Nível: Compacto -->
-### 1.2 Dom[inio e Tipo de Jogo]  
-_Jogos Família, Cozy, Cute/Kawaii_
+### 1.2 Domínio e Tipo de Jogo  
+- Jogos Família;<br>
+- Cozy;<br>
+- Cute/Kawaii.
 
 <!-- Nível: Compacto -->
 ### 1.3 Público-alvo  
-_Jogadores Casuais de Board/Card Games_
-_Amantes de Gatos e Estética “Cute/Kawaii”_
-_Jogadores que gostam de Customização e Construção de Conjuntos_
-_Grupos que Jogam Socialmente, que gostam de experiências coletivas com humor e fofura_
+- Jogadores Casuais de Board/Card Games;<br>
+- Amantes de Gatos e Estética “Cute/Kawaii”;<br>
+- Jogadores que gostam de Customização e Construção de Conjuntos;<br>
+- Grupos que Jogam Socialmente, que gostam de experiências coletivas com humor e fofura;<br>
 
-_Características comportamentais do público_
-    _. Preferem jogos rápidos e rejogáveis._
-    _. Gostam de colecionar, organizar e montar “builds”._
-    _. Apreciam estética cute, cozy e identidades fortes nos visuais._
-    _. Valorizam interação social e humor leve._
-    _. Tendem a compartilhar fotos do jogo nas redes (alto potencial instagramável)._
+#### 1.3.1 Características comportamentais do público
+- Preferem jogos rápidos e rejogáveis;<br>
+- Gostam de colecionar, organizar e montar “builds”;<br>
+- Apreciam estética cute, cozy e identidades fortes nos visuais;<br>
+- Valorizam interação social e humor leve;<br>
+- Tendem a compartilhar fotos do jogo nas redes (alto potencial instagramável).<br>
 
 <!-- Nível: Compacto -->
 ### 1.4 Premissa / Fantasia Principal  
-_No mundo acolhedor e vibrante de Purrfect Kitten, cada jogador tem a chance de criar o seu trio de gatinhos dos sonhos, estilizados e cheios de personalidade. A fantasia central do jogo é a sensação de criar combinações únicas, combinando cartas em camadas que possam transformar esses gatinhos no pet perfeito para você._
+No mundo acolhedor e vibrante de Purrfect Kitten, cada jogador tem a chance de criar o seu trio de gatinhos dos sonhos, estilizados e cheios de personalidade. A fantasia central do jogo é a sensação de criar combinações únicas, combinando cartas em camadas que possam transformar esses gatinhos no pet perfeito para você.
 
 <!-- Nível: Compacto -->
 ### 1.5 Pitch em 2 Linhas  
-_Construir seu próprio gatinho perfeito em um mundo fofo, mágico e cheio de personalidade. E ainda ser premiado por isso!_
+Construir seu próprio gatinho perfeito em um mundo fofo, mágico e cheio de personalidade. E ainda ser premiado por isso!
 
 <!-- Nível: Intermediate
 ### 1.6 Principais Referências  
@@ -72,21 +74,16 @@ _(Descrição aqui)_
 
 <!-- Nível: Compacto -->
 ### 2.1 Objetivo Geral do Jogador  
-_(como o jogador “vence”)_
-
-_(Descrição aqui)_
+Conseguir a maior pontuação possível em seus gatinhos/conjuntos de gatinhos.
 
 <!-- Nível: Compacto -->
 ### 2.2 Tempo Estimado de Partida  
-_(ex.: 30–45 min com 3–4 jogadores)_
-
-_(Descrição aqui)_
+A ser testado, mas, o estimado é entre 30-45 minutos.
 
 <!-- Nível: Compacto -->
 ### 2.3 Número de Jogadores  
-_(mínimo / máximo / ideal)_
-
-_(Descrição aqui)_
+- Mínimo: 2 jogadores.
+- Máximo: 4 jogadores.
 
 <!-- Nível: Intermediate
 ### 2.4 Nível de Complexidade  
@@ -213,8 +210,7 @@ _(Descrição aqui)_
 
 <!-- Nível: Compacto -->
 #### 5.4.1 Como Vencer  
-
-_Quando o último jogador terminar de montar as cartas de seu terceiro gatinho, os jogadores todos os expõem em uma exposição de pets e recebem prêmios (pontos) pelos objetivos que cumpriram. O jogador com maior quantidade de pontos vence._
+Quando o último jogador terminar de montar as cartas de seu terceiro gatinho, os jogadores todos os expõem em uma exposição de pets e recebem prêmios (pontos) pelos objetivos que cumpriram. O jogador com maior quantidade de pontos vence.
 
 <!-- Nível: Intermediate
 #### 5.4.2 Pontuação / Condições Alternativas
@@ -294,21 +290,18 @@ _(Descrição aqui)_
 <!-- Nível: Completo-->
 ### 7.6 Diretrizes de Arte para Cartas e Tabuleiros
 
-_Gatos Base:_
-    _Identidade Visual dos Gatos_
-    _Proporções_
-    _.Cabeças grandes (cartoon), com proporção entre 1:1 a 1:1.5 em relação ao corpo._
-    _.Corpo compacto, pernas curtas e traços redondinhos que reforçam a fofura._
-    _.Olhos grandes e expressivos, com brilho suave._
-    _.Caudas curvas e volumosas, ajudando na leitura e na silhueta._
-    _Linguagem de Formas_
-    _.Formas predominantes: círculos, ovais e curvas suaves._
-    _.Evitar ângulos agudos ou detalhes muito realistas._
-    _.Silhuetas claras para fácil reconhecimento em pequeno formato (cartas)._
-    _Expressões_
-    _.Suaves, simpáticas e de fácil leitura._
-    _.O foco é transmitir: fofura, curiosidade, alegria leve, preguiça fofa._
+#### 7.6.1 Cartas:
+##### 7.6.1.1 Identidade Visual dos Gatos:
+Proporções: <br>
+- Cabeças grandes estilo cartoon;<br>
+- Corpo compacto, pernas curtas e traços redondinhos que reforçam a fofura;<br>
+- Olhos grandes e expressivos, com brilho suave;<br>
+- Caudas curvas e volumosas, ajudando na leitura e na silhueta.<br>
 
+Linguagem de Formas: <br>
+- Formas predominantes: círculos, ovais e curvas suaves;<br>
+- Evitar ângulos agudos ou detalhes muito realistas;<br>
+- Silhuetas claras para fácil reconhecimento em pequeno formato (cartas).
 
 ---
 
@@ -397,8 +390,8 @@ _Iniciar com apenas lineart e sketches pq impressão em transparência é cara. 
 <!-- Nível: Compacto -->
 ## 14. Glossário
 
-_Base: Carta com lineart dos gatinhos._
-_Camadas: Cartas impressas em transparência que acrescentarão as cores e demais detalhes dos gatinhos que devem ser "empilhadas" em cima do lineart._
+- Base: Carta com lineart dos gatinhos;<br>
+- Camadas: Cartas impressas em transparência que acrescentarão as cores e demais detalhes dos gatinhos que devem ser "empilhadas" em cima do lineart.
 
 ---
 
@@ -407,11 +400,10 @@ _Camadas: Cartas impressas em transparência que acrescentarão as cores e demai
 
 <!-- Nível: Compacto -->
 ### 15.1 Equipe
-
-_Giovanna Saggiomo: Game Designer e Artista._
+Giovanna Saggiomo: Game Designer e Artista.
 
 <!-- Nível: Compacto -->
 ### 15.2 Histórico de Versões do Documento  
 
-_v0.1 – Esqueleto Criado e MkDocs/Automatização funcionando;_
-_v0.2 – Início do preenchimento das Informações_
+v0.0 – Esqueleto Criado e MkDocs/Automatização funcionando;
+v0.1 – Início do preenchimento das Informações

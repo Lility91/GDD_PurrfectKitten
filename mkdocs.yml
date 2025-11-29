@@ -1,12 +1,12 @@
 site_name: GDD - Purrfect Kitten
 
+extra_css:
+  - css/purrfect-toc.css
+
 theme:
   name: null
   custom_dir: mkdocs_dracula_theme
+  favicon: images/Moninha.png   # 👈 agora seu site vai usar o gatinho!
 
 nav:
-  - Início: index.md  # se o GDD estiver no index.md
-  # ou, se você criar um gdd.md separado:
-  # - GDD Completo: gdd.md
-
-
+  - Início: index.md
