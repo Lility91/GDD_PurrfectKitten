@@ -283,7 +283,7 @@ _(Descrição aqui)_
 
 <!-- Nível: Intermediate-->
 ### 7.4 Moodboard / Referências Visuais
-![Referência dos Gatinhos](images/reference/ref_Cat.png)
+![Referência dos Gatinhos](images/reference/Ref_Cat.png)
 
 
 <!-- Nível: Intermediate-->
