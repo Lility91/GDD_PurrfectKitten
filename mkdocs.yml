@@ -5,5 +5,8 @@ theme:
   custom_dir: mkdocs_dracula_theme
 
 nav:
-  - Home: index.md
+  - Início: index.md  # se o GDD estiver no index.md
+  # ou, se você criar um gdd.md separado:
+  # - GDD Completo: gdd.md
+
 
