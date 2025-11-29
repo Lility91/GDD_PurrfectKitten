@@ -246,21 +246,33 @@ _(Descrição aqui)_
 
 ---
 
-<!-- Toda a seção 6 é não-Compacta, então comentada
+<!-- Toda a seção 6 é não-Compacta, então comentada-->
 ## 6. Estrutura de Cartas e Outros Componentes
 
-### 6.1 Layout das Cartas  
+<!-- ### 6.1 Layout das Cartas  
 
-### 6.2 Hierarquia da Informação  
+### 6.2 Hierarquia da Informação --> 
 
-### 6.3 Tipos de Cartas  
+### 6.3 Tipos de Cartas
+#### 6.3.1 Cartas Base
+As cartas base são compostas pelo lineart a ser "preenchido", uma ideia é que seja o gatinho em cima de uma mesa de exposição, onde ficarão os atributos das cartas de camada.
 
-### 6.4 Tokens, Marcadores e Tabuleiros
+#### 6.3.2 Cartas de Camada
+##### 6.3.2.1 Atributos das Cartas de Camada
+Cada carta de camada tem dois atributos entre os quatro disponíveis.
+Esses atributos, por sua vez, podem ser de cinco tipos cada. Eles são:
+
+- Tema → Terror, Infantil, Sci-fi, Drama, Comédia
+- Paleta → Vibrante, Pastel, Frio, Quente, Neutro
+- Vibe → Fofo, Romântico, Elegante, Selvagem, Sombrio
+- Origem → Mitológica, Geek, Natural, Mágico, Cósmico
+
+<!-- ### 6.4 Tokens, Marcadores e Tabuleiros
 
 ### 6.5 Wireframes / Mockups de Componentes  
 
-### 6.6 Versões Alternativas / Módulos de Cartas
--->
+### 6.6 Versões Alternativas / Módulos de Cartas-->
+
 
 ---
 
