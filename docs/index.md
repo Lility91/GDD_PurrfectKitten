@@ -130,12 +130,12 @@ O projeto deve estar concluído para entrega no TCC da Pós.
 
 #### 3.4.1 Carta base de gatinho
 - Lineart do gatinho no centro da carta;<br>
-- Área inferior reservada para os símbolos de origem;<br>
+- Área inferior reservada para os símbolos de atributo;<br>
 - Background.
 
 #### 3.4.2 Cartas de camada
 - Figura com a adição ao lineart no meio da carta, encaixando com o lineart;<br>
-- Símbolos na área inferior apontando a origem daquela camada/tipo dela.
+- Símbolos na área inferior apontando os atributos daquela camada.
 
 ### 3.5 Versão de Protótipo  
 Protótipo inicial deve ser impresso em sulfite visando prototipagem rápida e barata para execuitar o máximo de design loops sem dó de tacar tudo fora se necessário.
@@ -193,15 +193,13 @@ _(Descrição aqui)_
 <!-- BLOCO 5.2 TODO NÃO-COMPACTO
 ### 5.2 Mecânicas Principais
 
-#### 5.2.1 Compra / Saque / Draft
+#### 5.2.1 Compra de Cartas
 
-#### 5.2.2 Movimentação / Colocação  
+#### 5.2.2 Gerenciamento de Mão  
 
-#### 5.2.3 Combate / Conflito  
+#### 5.2.3 Montagem de Gatinho  
 
-#### 5.2.4 Controle de Território / Áreas
-
-#### 5.2.5 Recursos e Economia  
+#### 5.2.4 Pontuação
 -->
 
 <!-- BLOCO 5.3 TODO NÃO-COMPACTO
@@ -259,13 +257,64 @@ As cartas base são compostas pelo lineart a ser "preenchido", uma ideia é que 
 
 #### 6.3.2 Cartas de Camada
 ##### 6.3.2.1 Atributos das Cartas de Camada
-Cada carta de camada tem dois atributos entre os quatro disponíveis.
+Cada carta de camada tem dois atributos entre os cinco disponíveis.
 Esses atributos, por sua vez, podem ser de cinco tipos cada. Eles são:
 
-- Tema → Terror, Infantil, Sci-fi, Drama, Comédia
-- Paleta → Vibrante, Pastel, Frio, Quente, Neutro
-- Vibe → Fofo, Romântico, Elegante, Selvagem, Sombrio
-- Origem → Mitológica, Geek, Natural, Mágico, Cósmico
+- Tema → Terror, Infantil, Sci-fi, Drama, Comédia;<br>
+- Paleta → Vibrante, Pastel, Frio, Quente, Neutro; <br>
+- Vibe → Fofo, Romântico, Elegante, Selvagem, Sombrio; <br>
+- Origem → Mitológica, Geek, Natural, Mágico, Cósmico; <br>
+- Celebração → Carnaval, Páscoa, Festa Junina, Halloween, Natal.
+
+##### 6.3.2.2 Tema
+###### 6.3.2.2.1 Terror
+
+
+#### 6.3.3 Cartas de Objetivo
+O jogo possui 20 cartas de objetivo (Canvas possui 12, então esse é o mínimo, mas, eu gostaria de 20.)
+
+##### 6.3.3.1 Objetivos relacionados à um único gatinho
+- Estilo Fixo: Gatos pontuam por cartas com símbolos repetidos;<br>
+_Exemplo: 1 Símbolo de Pastel: 1 prêmio, 2 Símbolos de Pastel: 3 prêmios, 3 Símbolos de Pastel: 5 prêmios.(REVER)_<br>
+- Metamorfose Ambulante: Gatos pontuam por símbolos diferente;<br>
+_Exemplo: Apenas 2 símbolos: 1 prêmio, 3 símbolos: 3 prêmios, 4 símbolos: 5 prêmios, 5 símbolos: 7 prêmios._<br>
+- Poção do Amor: Gatos pontuam extra por conjuntos de Romântico + Mágico.<br>
+_Exemplo: Para cada conjunto de símbolo de Romântico e Mágico no mesmo gatinho, o jogador ganha 1 prêmio._<br>
+- Aprendiz de Cthulhu: Gatos pontuam extra por conjuntos de Terror + Cósmico;<br>
+_Exemplo: Para cada conjunto de símbolo de Terror e Cósmico no mesmo gatinho, o jogador ganha 1 prêmio._<br>
+<!-- Minimalismo Elegante: Gatos pontuam extra por conjuntos de Neutro + Elegante;<br>
+_Exemplo: Para cada conjunto de símbolo de Neutro e Elegante no mesmo gatinho, o jogador ganha 1 prêmio._<br>-->
+- Mini Influencer: Gatos pontuam extra por conjuntos de Infantil + Pastel;<br>
+_Exemplo: Para cada conjunto de símbolo de Infantil e Pastel no mesmo gatinho, o jogador ganha 1 prêmio._<br>
+- Óia a cobra: Gatos pontuam extra por conjuntos de Festa Junina + Quente;<br>
+_Exemplo: Para cada conjunto de símbolo de Festa Junina e Quente no mesmo gatinho, o jogador ganha 1 prêmio._<br>
+- Doces ou Travessuras: Gatos pontuam extra por conjuntos de Fofo + Halloween.<br>
+_Exemplo: Para cada conjunto de símbolo de Fofo e Halloween no mesmo gatinho, o jogador ganha 1 prêmio._<br>
+
+##### 6.3.3.2 Objetivos relacionados ao conjunto de gatinho
+- Filho de Peixe: O conjunto pontua por símbolos repetidos;<br>
+_Exemplo: Para símbolo repetido em todos os gatinhos, o jogador ganha: 1 símbolo: 1 prêmio, 2 símbolos: 3 prêmios, 3 símbolos: 5 prêmios, 4 símbolos: 7 prêmios._<br>
+- Foca no Tema: O conjunto pontua por ter o mesmo tema;
+_Exemplo: Caso todo o conjunto compartilhe o mesmo tema (por exemplo, Drama), o jogador ganha 3 prêmios._<br>
+- Repeitando a Aesthetic: O conjunto pontua por ter a mesma paleta;
+_Exemplo: Caso todo o conjunto compartilhe a mesma paleta (por exemplo, Quente), o jogador ganha 3 prêmios._<br>
+- Só na Vibe: O conjunto pontua por ter a mesma vibe;
+_Exemplo: Caso todo o conjunto compartilhe a mesma vibe (por exemplo, Selvagem), o jogador ganha 3 prêmios._<br>
+- Diga-me com quem andas: O conjunto pontua por ter a mesma origem;
+_Exemplo: Caso todo o conjunto compartilhe a mesma origem (por exemplo, Mitológica), o jogador ganha 3 prêmios._<br>
+- Temporada de Festa: O conjunto pontua por ter a mesma celebração;
+_Exemplo: Caso todo o conjunto compartilhe a mesma celebração (por exemplo, Carnaval), o jogador ganha 3 prêmios._<br>
+- X-tudo: O conjunto pontua por ter temas diferentes;
+_Exemplo: Caso todo o conjunto tenha temas diferentes (por exemplo, Terror, Drama e Comédia), o jogador ganha 3 prêmios._<br>
+- Wandinha e Enid: O conjunto pontua por ter paletas diferentes;
+_Exemplo: Caso todo o conjunto tenha paletas diferentes (por exemplo, Quente, Frio e Neutro), o jogador ganha 3 prêmios._<br>
+- Quebra Clima: O conjunto pontua por ter vibes diferentes;
+_Exemplo: Caso todo o conjunto tenha vibes diferentes (por exemplo, Romântico, Selvagem e Sombrio), o jogador ganha 3 prêmios._<br>
+- De todos os Cantos: O conjunto pontua por ter origens diferentes;
+_Exemplo: Caso todo o conjunto tenha origens diferentes (por exemplo, Mitológica, Geek e Cósmica), o jogador ganha 3 prêmios._<br>
+- Todo o Ano: O conjunto pontua por ter celebrações diferentes;
+_Exemplo: Caso todo o conjunto tenha celebrações diferentes (por exemplo, Natal, Carnaval e Páscoa), o jogador ganha 3 prêmios._<br>
+
 
 <!-- ### 6.4 Tokens, Marcadores e Tabuleiros
 
