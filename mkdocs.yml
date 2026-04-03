@@ -9,4 +9,4 @@ theme:
   favicon: images/Moninha.png   # 👈 agora seu site vai usar o gatinho!
 
 nav:
-  - Início: index.md
+  - Início: gdd_minc/index.md
