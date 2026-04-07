@@ -19,52 +19,60 @@ Jogo analógico de cartas onde o jogador adquire cartas através de draft e mont
 ## 2. Visão Geral
 
 ### Gênero
-Jogo de cartas / jogo analógico / set collection / pattern building.
+Jogo de cartas analógico, familiar, cozy, cute/kawaii, com foco em coleção, combinação e composição visual.
 
 ### Público-alvo
-- Jogadores Casuais de Board/Card Games;<br>
-- Amantes de Gatos e Estética “Cute/Kawaii”;<br>
-- Jogadores que gostam de Customização e Construção de Conjuntos;<br>
-- Grupos que Jogam Socialmente, que gostam de experiências coletivas com humor e fofura;<br>
+Purrfect Kitten é voltado principalmente para jogadores casuais de board e card games, amantes de gatos e da estética cute/kawaii, pessoas que gostam de customização e construção de conjuntos e grupos que jogam socialmente, buscando experiências leves, charmosas e rejogáveis.
+
+O público tende a preferir jogos rápidos, com forte apelo visual, identidade marcante e potencial de compartilhamento social.
 
 ### Game Flow
 | Etapa | O que acontece |
 |---|---|
-| Preparação | Cada jogador recebe cartas e os objetivos são revelados ou distribuídos conforme a regra. |
-| Turno | O jogador compra, joga, combina ou organiza cartas para montar gatos e avançar em seus objetivos. |
+| Preparação | São distribuídas na mesa as seguintes cartas: O desafio global da partida e os desafios de trend; As cartas de peças de gato, após embaralhadas, são distribuídas em duas filas de 5 cartas cada deixando um vão entre elas; O baralho de cartas de peça de gato é colocado ao lado do vão entre as cartas. Cada jogador recebe três cartas de lineart de gato, quatro tokens de pegada e um objetivo de conjunto escondido. O jogador com mais gatos (ou o último jogador a interagir com um gato começa). |
+| Turno | O jogador pode pegar uma das cartas na ponta da fila mais afastada do baralho sem pagar token nenhum, ou usar seus tokens de pegada para "andar" pela linha entre as duas filas de cartas e comprar uma das cartas do espaço imediatamente à frente dele. Além disso, ele também pode combinar 3 cartas de sua mão para montar um gato e avançar em seus objetivos escondidos ou completar um dos objetivos de trend da mesa. Caso ele conclua um objetivo de trend, ele adquiri aquela carta. |
 | Montagem | As cartas transparentes e/ou sobrepostas formam visualmente os gatos com atributos específicos. |
-| Pontuação | Os jogadores verificam objetivos cumpridos e somam pontos. |
-| Encerramento | O jogo termina quando a condição final for atingida; vence quem tiver mais pontos. |
+| Pontuação | Os jogadores verificam objetivos cumpridos ao final do jogo e somam pontos. |
+| Encerramento | O jogo termina quando todos os jogadores tiverem montado seus três gatos; vence quem tiver mais pontos. |
 
 ### Estilo estético
-O jogo adota uma direção visual fofa, colorida e charmosa, centrada na montagem de gatos com forte apelo colecionável. A proposta visual combina lineart legível com camadas de personalização, inspirada em jogos e experiências que valorizam composição visual, combinação temática e apelo cozy.
+O jogo adota uma estética fofa/kawaii moderna, aconchegante, colorida e fofa. A direção de arte prioriza formas arredondadas, expressões carismáticas e forte apelo de coleção e exibição. Cada gatinho deve parecer um pequeno mascote mágico, único e visualmente recompensador de montar.
 
 ---
 
 ## 3. Gameplay e Mecânicas
 
 ### Gameplay
-O núcleo da experiência consiste em montar gatos por meio da combinação de cartas em camadas, buscando cumprir objetivos individuais ou coletivos. A estratégia surge da escolha de quais cartas guardar, jogar, combinar ou priorizar, considerando tanto a estética formada quanto os atributos mecânicos e temáticos de cada composição.
+O núcleo do jogo está na montagem de gatinhos por meio da sobreposição de cartas em camadas. Os jogadores constroem seus gatos combinando base, padrões de pelagem/mutações e acessórios, buscando formar composições visualmente interessantes e mecanicamente eficientes para pontuar com os objetivos da partida.
 
 ### Progressão do Game
-A progressão acontece a partir do aumento gradual de possibilidades de combinação e da disputa por objetivos mais vantajosos. Ao longo da partida, os jogadores passam a tomar decisões mais informadas sobre quais atributos perseguir, quais gatos completar e como maximizar sua pontuação.
+A progressão acontece ao longo da própria partida, conforme os jogadores completam seus gatos e se aproximam da composição final de um trio. A tensão cresce à medida que os jogadores percebem quantos objetivos de trend os demais já completaram enquanto, ao mesmo tempo, não sabem se eles completaram os seus objetivos escondidos ou não.
 
 ### Estrutura de Missões/Desafios
-Os desafios do jogo são dados principalmente pelas cartas de objetivo, que solicitam determinadas combinações de atributos, padrões visuais, temas ou coerências entre os gatos montados.
+Os desafios do jogo são dados pelas cartas de objetivo. No jogos temos três tipos de objetivo: 1. Objetivos Globais, eles determinam se os jogadores devem focar em ter atributos diferentes ou repetidos; 2. Objetivos Trending: Combinações de Atributos específicos e temáticos que são distribuídos em 3 pilhas na mesa no início do jogo e coletados pelo jogador ao completá-los; 3. Objetivos de Conjunto (Escondidos), cada jogador recebe um ou início do jogo, eles são referentes ao conjunto de três gatos montados pelo jogador durante o jogo.
 
 ### Objetivos
-O objetivo do jogo é obter a maior quantidade de pontos por meio da montagem eficiente de gatos e do cumprimento de objetivos visuais e temáticos.
+O objetivo do jogador é conseguir a maior pontuação possível em seus gatinhos e/ou conjuntos de gatinhos ao final da partida.
 
 ### Mecânicas
 As principais mecânicas do jogo incluem:
 - compra e gestão de mão;
 - combinação de cartas em camadas;
-- set collection;
-- pattern building;
+- composição visual;
+- coleção de atributos;
+- construção de conjuntos;
 - cumprimento de objetivos;
-- leitura visual da composição final.
+- comparação de resultados finais.
 
-As regras explícitas definem como as cartas podem ser combinadas e como os pontos são obtidos. As regras implícitas surgem da leitura estratégica do estado da mesa, da antecipação dos objetivos adversários e da otimização das melhores combinações possíveis.
+Cada carta de camada possui dois atributos. Esses atributos se distribuem em cinco grandes categorias:
+
+- **Tema:** Terror, Infantil, Sci-fi, Drama, Comédia;
+- **Paleta:** Vibrante, Pastel, Frio, Quente, Neutro;
+- **Vibe:** Fofo, Romântico, Elegante, Selvagem, Sombrio;
+- **Origem:** Mitológica, Geek, Natural, Mágico, Cósmico;
+- **Celebração:** Carnaval, Páscoa, Festa Junina, Halloween, Natal.
+
+As regras explícitas definem como os gatos podem ser montados e como os objetivos pontuam. As regras implícitas surgem da leitura do melhor encaixe entre cartas, atributos e timing de montagem.
 
 ### Movimentação dentro do Game / Física
 Por se tratar de um jogo analógico de cartas, não há movimentação espacial em ambiente navegável. A “movimentação” do jogo ocorre pela manipulação física das cartas na mão, na mesa e nas áreas de montagem dos gatos.
