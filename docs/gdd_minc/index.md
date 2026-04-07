@@ -49,20 +49,23 @@ O núcleo do jogo está na montagem de gatinhos por meio da sobreposição de ca
 A progressão acontece ao longo da própria partida, conforme os jogadores completam seus gatos e se aproximam da composição final de um trio. A tensão cresce à medida que os jogadores percebem quantos objetivos de trend os demais já completaram enquanto, ao mesmo tempo, não sabem se eles completaram os seus objetivos escondidos ou não.
 
 ### Estrutura de Missões/Desafios
-Os desafios do jogo são dados pelas cartas de objetivo. No jogos temos três tipos de objetivo: 1. Objetivos Globais, eles determinam se os jogadores devem focar em ter atributos diferentes ou repetidos; 2. Objetivos Trending: Combinações de Atributos específicos e temáticos que são distribuídos em 3 pilhas na mesa no início do jogo e coletados pelo jogador ao completá-los; 3. Objetivos de Conjunto (Escondidos), cada jogador recebe um ou início do jogo, eles são referentes ao conjunto de três gatos montados pelo jogador durante o jogo.
+Os desafios do jogo são dados pelas cartas de objetivo. No jogos temos três tipos de objetivo: 
+ - Objetivos Globais, eles determinam se os jogadores devem focar em ter atributos diferentes ou repetidos;
+ - Objetivos Trending: Combinações de Atributos específicos e temáticos que são distribuídos em 3 pilhas na mesa no início do jogo e coletados pelo jogador ao completá-los;
+ - Objetivos de Conjunto (Escondidos), cada jogador recebe um ou início do jogo, eles são referentes ao conjunto de três gatos montados pelo jogador durante o jogo.
 
 ### Objetivos
 O objetivo do jogador é conseguir a maior pontuação possível em seus gatinhos e/ou conjuntos de gatinhos ao final da partida.
 
 ### Mecânicas
 As principais mecânicas do jogo incluem:
-- compra e gestão de mão;
-- combinação de cartas em camadas;
-- composição visual;
-- coleção de atributos;
-- construção de conjuntos;
-- cumprimento de objetivos;
-- comparação de resultados finais.
+- Compra e gestão de mão;
+- Combinação de cartas;
+- Composição visual;
+- Coleção de atributos;
+- Construção de conjuntos;
+- Cumprimento de objetivos;
+- Comparação de resultados finais.
 
 Cada carta de camada possui dois atributos. Esses atributos se distribuem em cinco grandes categorias:
 
@@ -75,120 +78,181 @@ Cada carta de camada possui dois atributos. Esses atributos se distribuem em cin
 As regras explícitas definem como os gatos podem ser montados e como os objetivos pontuam. As regras implícitas surgem da leitura do melhor encaixe entre cartas, atributos e timing de montagem.
 
 ### Movimentação dentro do Game / Física
-Por se tratar de um jogo analógico de cartas, não há movimentação espacial em ambiente navegável. A “movimentação” do jogo ocorre pela manipulação física das cartas na mão, na mesa e nas áreas de montagem dos gatos.
+Como se trata de um jogo analógico de cartas, não há movimentação espacial de personagem. A interação física mais próxima de uma movimentação é o uso de tokens de patas para adquirir cartas mais para frente na fila de compras.
 
 ### Objetos
-Os principais objetos do jogo são as cartas:
-- cartas de base;
-- cartas de padrão ou mutação;
-- cartas de acessório;
-- cartas de objetivo.
+Os principais objetos do jogo são:
+- 01x Caixa;
 
-O jogador interage com elas comprando, organizando, baixando, sobrepondo e utilizando suas informações para montar composições válidas.
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+- 01x Manual;
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+- 02x ou 04x Sheet de Referências de Categorias/Atributos;
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+- 16x Cartas base com o lineart dos gatinhos;
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+- 88x Cartas de camada impressas em transparência;
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+- 02x Cartas de objetivo globais;
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+- ??x Cartas de objetivo "Trending";
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+- ??x Cartas de objetivo de conjunto;
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+- 16x Tokens de pegadas.
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+As cartas base funcionam como suporte visual para a composição final. As cartas de camada acrescentam cor, padrão de pelagem/mutações e acessórios, além dos atributos usados para pontuação.
 
 ### Ações
-As ações possíveis incluem:
-- comprar carta;
-- jogar carta;
-- montar ou completar um gato;
-- reorganizar escolhas de montagem, quando permitido;
-- verificar objetivos;
-- pontuar.
+As ações principais envolvem:
+- Comprar cartas de camada;
+- Organizar a mão e planejar combinações;
+- Montar os gatinhos;
+- Verificar os atributos visíveis;
+- Cumprir objetivos;
+- Contar os pontos ao fim do jogo.
 
-O principal meio de comunicação do jogo é visual, por meio da iconografia, ilustração, cores, símbolos e leitura das combinações montadas.
+A comunicação do jogo é majoritariamente visual, apoiada por símbolos de atributo e leitura direta das composições.
 
 ### Combate
-Não há combate direto no sentido tradicional. O conflito é estratégico e competitivo, baseado na disputa por eficiência, timing, combinações e pontuação.
+Não há combate. O conflito é indireto, centrado na aquisição de cartas que, por vezes, podem ser aquelas que seus oponentes queriam ou no ato de completar um objetivo que outro jogador estava tentando completar.
 
 ### Economia
-A princípio, o jogo não possui economia interna com ouro ou moedas. O valor estratégico está nas próprias cartas e em como elas são convertidas em pontos ao longo da partida.
+Até o momento, o jogo não apresenta economia tradicional com moedas ou ouro. Os tokens de pegada, usados para comprar cartas mais próximas do baralho (avançadas) nas filas de compra são o mais próximo que temos de uma economia e nesse caso é um jogo de economia fechada, nunca existem mais do que 16 pegadas em jogo.
 
 ### Opções de Jogo
-Possíveis variações:
-- modo básico para primeiros testes;
-- modo completo com todos os tipos de objetivos;
-- ajuste no número de cartas em mão;
-- ajuste na quantidade de objetivos ativos;
-- modos para diferentes números de jogadores.
+Por enquanto, o jogo apresenta apenas um modo (o modo descrito acima), porém, é possível:
+ - Um modo sem pontuação, caso seja necessário tornar o jogo mais casual ainda;
+ - Um modo onde o jogo acaba quando o primeiro jogador terminar seu terceiro gato, mesmo que os demais não tenham completado os seus, para tornar o jogo ainda mais competitivo e rápido.
 
-Essas opções afetam o ritmo, a complexidade estratégica e a duração da partida.
+ Tais mudanças podem afetar a duração do jogo além de seu nível de complexidade/desafio.
 
 ### Salvar & Replay
-Por ser um jogo analógico, não há sistema de save. O replay ocorre por meio de novas partidas, com alta rejogabilidade proporcionada pela variedade de combinações entre cartas e objetivos.
+Por ser um jogo analógico, não há sistema de save. A rejogabilidade vem da recombinação das cartas e da variedade de objetivos.
 
 ### Easter Eggs, Cheats e conteúdo bônus
-Podem existir referências visuais, objetivos especiais, homenagens temáticas e cartas bônus.  
-[Preencher conforme o projeto amadurecer]
+Algumas cartas trazem referências específicas à cultura geek/nerd, são elas:
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+
+Além das cartas de camadas, alguns objetivos também trazem referências específicas, como:
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
 
 ---
 
 ## 4. Arte do Game
 
 ### Elementos Visuais
-A direção de arte prioriza apelo fofo, clareza visual e leitura rápida das combinações. A paleta tende a valorizar variedade cromática e diferenciação entre atributos, sem comprometer a legibilidade. O foco está na composição dos gatos como principal recompensa visual da experiência.
+A direção de arte do jogo é baseada em uma estética cozy + cute, com forte inspiração em universos de customização visual e criaturas colecionáveis. Os gatos devem apresentar:
+- Cabeças grandes em estilo cartoon;
+- Corpos compactos;
+- Pernas curtas e mais gordinhas, estilo chibi;
+- Olhos grandes e expressivos;
+- Caudas curvas e compridas;
+- Formas predominantemente arredondadas.
+
+A leitura visual deve permanecer clara mesmo em formato impresso, considerando o uso em cartas em tamanho 70mm x 120mm para todas as cartas do jogo.
 
 **Paleta de cores:**  
-[Preencher]
+![Paleta Inicial](reference/pastel-color-palettes-chart-with-names-and-hex-codes.webp)
 
 **Inspirações:**  
-[Preencher]
+- Canvas (Cartas com Transparência);<br>
+![Exemplos de funcionamento dos cards em Canvas](reference/Ref_Canvas.png)
+- KleptoCats (Estilo Silly/Cute);<br>
+![Exemplos de estilo mascotinho Silly/Fofo em KleptoCats](reference/Ref_KleptoCats.jpg)
+- Flight Rising (Manifestação de Padrões e Cores Base);<br>
+![Exemplos de Silhueta e cores em Flight Rising](reference/Ref_FR.png)
+- Battle Cats (Mutações e Referências);<br>
+![Exemplos de mutações e referências em Battle Cats](reference/Ref_BattleCats.webp)
+- Little Kitty Big City (Acessórios);<br>
+![Exemplos de acessórios em Little Kitty Big City](reference/Ref_LKBG.webp)
+
 
 ### Elementos Sonoros
-Por se tratar de um jogo analógico físico, não há trilha ou efeitos sonoros integrados obrigatórios ao produto. Eventuais elementos sonoros podem aparecer apenas em materiais promocionais, vídeos de apresentação ou adaptações digitais futuras.
+Como se trata de um jogo de mesa, não há sistema sonoro nativo na experiência principal. Eventuais referências de atmosfera podem existir apenas como apoio na ambientação externa da partida.
 
 ---
 
 ## 5. Narrativa, Ambientação e Personagens
 
 ### História e Narrativa
-A narrativa do jogo é leve e centrada na ideia de criar, colecionar e combinar gatinhos com estilos e características diversas. Em vez de uma história linear, o jogo trabalha com uma narrativa emergente construída pelas combinações visuais, pelos temas das cartas e pelos objetivos ativados em cada partida.
+Purrfect Kitten trabalha com uma narrativa leve e temática, centrada na fantasia de criar o gatinho perfeito. Em vez de uma história linear, a proposta valoriza uma fantasia de personalização e curadoria visual: cada jogador monta um trio de gatos estilizados e cheios de personalidade.
 
 ### Game World
-O universo do jogo é lúdico, encantador e voltado à expressão visual dos gatos como criaturas colecionáveis e altamente personalizáveis.
+O mundo do jogo é acolhedor, vibrante, fofo e levemente mágico, funcionando como pano de fundo para a criação desses gatos ideais.
 
 ### Visão geral e apresentação visual do mundo do game
-O mundo do jogo é apresentado principalmente por sua estética e por suas categorias temáticas, que sugerem estilos, origens, vibes, celebrações e paletas distintas.
+A ambientação é menos narrativa e mais estética, baseada em categorias como tema, paleta, vibe, origem e celebração. Isso permite que cada composição sugira um micro-universo visual próprio.
 
 ### Áreas do jogo
-Como jogo analógico de cartas, o espaço do jogo é organizado em zonas funcionais:
-- mão do jogador;
-- área de montagem dos gatos;
-- pilhas de compra e descarte;
-- área de objetivos;
-- área de pontuação.
+Por ser um jogo de cartas físico, as “áreas” do jogo são funcionais e físicas:
+- Mão do jogador;
+- Filas de compras das cartas de camada;
+- Área de objetivos;
+- Área de Exposição de cada jogador, onde ele exibe seus gatinhos já montados;
+- Área de objetivos já concluídos.
 
 ### Personagens
-Os principais “personagens” são os próprios gatos montados ao longo da partida. Cada composição final expressa personalidade visual, combinação temática e identidade própria a partir das cartas utilizadas.
+Os principais personagens são os próprios gatinhos montados durante a partida. Sua personalidade emerge da combinação de atributos, cores, temas e acessórios.
 
 ### Fases (Levels)
-O jogo não possui fases no sentido tradicional digital. Sua progressão ocorre por rodadas, turnos e condições de encerramento.
+Não há fases no sentido digital tradicional. A estrutura da partida se organiza pela montagem progressiva de três gatinhos por jogador até a pontuação final.
+
+ - INSERIR IMAGENS DE ESTADOS DE JOGO DESENVOLVIDOS PARA O IVAN - 
 
 ### Fase de treino e/ou tutorial
-A proposta comporta um modo introdutório, com menos tipos de cartas e objetivos mais simples, para facilitar a compreensão das regras nas primeiras partidas.
+Não há um tutorial em si, mas, o manual vai explicar o jogo com imagens para ilustrar momentos de jogo e como interagir com ele.
 
 ---
 
 ## 6. Interface
 
 ### Sistema Visual
-A interface do jogo é composta pelo design das cartas, ícones, símbolos, textos de apoio e organização das áreas da mesa. O foco é garantir leitura rápida das informações e fácil identificação dos atributos presentes em cada composição.
+A interface é constituída pelo layout das cartas, lineart base, símbolos de atributos, composição em camadas e leitura visual geral da mesa. O sistema visual precisa equilibrar fofura, clareza e facilidade de leitura.
+
+#### Layout das Cartas
+- Cartas da Camada:
+ - INSERIR IMAGENS -
+- Cartas de Objetivos:
+ - INSERIR IMAGENS -
+
+#### Símbolos dos Atributos
+ - INSERIR IMAGENS -
 
 ### Sistema de Controle
-O controle é totalmente físico e manual, baseado em comprar, segurar, posicionar, sobrepor e organizar cartas.
+O controle do jogo é manual e físico, feito por posicionamento, sobreposição e manuseio das cartas.
 
 ### Sistema de Ajuda
-O jogo pode contar com:
-- folha-resumo de regras;
-- carta de referência rápida;
-- exemplos visuais de montagem;
-- glossário de ícones e categorias.
+O jogo conta com:
+- Manual;
+- Folha lembrete dos símbolos de atributos;
+- Exemplos de montagem para facilitar o entendimento nas primeiras partidas/rodadas (ilustrados no manual).
 
 ---
 
 ## 7. Inteligência Artificial (AI)
 
 ### Oponentes e AI inimiga
-Não se aplica em sua forma física atual, pois se trata de um jogo de mesa/cartas sem inteligência artificial digital.
+Não se aplica.
 
 ### AIs parceiras ou não-inimigas
 Não se aplica.
@@ -201,22 +265,35 @@ Não se aplica.
 ## 8. Aspectos Técnicos
 
 ### Plataformas de produção
-Jogo analógico físico, jogado presencialmente em mesa.
+
+#### Protótipo:
+ - Lápis e Papel.
+
+#### Versão 1.0:
+ - Ipad;
+ - PC.
 
 ### Hardware e Software de Desenvolvimento
-O desenvolvimento do protótipo envolve:
-- softwares de texto e diagramação;
-- edição de imagem, quando necessário;
-- impressão de cartas para playtest;
-- sleeves/protetores para montagem do protótipo físico.
+
+#### Protótipo:
+ - Folha sultife;
+ - Lápis;
+ - Borracha;
+ - Canetas coloridas.
+
+#### Versão 1.0:
+ - Procreate (Ilustrações);
+ - Illustrator (Interface e Símbolos);
+ - Visual Studio Code (GDD);
+ - GitHub (Armazenamento de Informações e Acesso ao GDD).
 
 ### Requerimentos de Rede
-Não utiliza internet para a experiência principal presencial.
+Não se aplica.
 
 ---
 
 ## Local e data
-[Preencher]
+São Paulo, 07 de abril de 2026.
 
 ## Responsável
-[Preencher]
+Giovanna Saggiomo
