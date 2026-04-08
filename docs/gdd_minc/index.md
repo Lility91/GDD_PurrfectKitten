@@ -169,10 +169,10 @@ A direção de arte do jogo é baseada em uma estética cozy + cute, com forte i
 
 A leitura visual deve permanecer clara mesmo em formato impresso, considerando o uso em cartas em tamanho 70mm x 120mm para todas as cartas do jogo.
 
-**Paleta de cores:**  
+#### Paleta de cores  
 ![Paleta Inicial](reference/pastel-color-palettes-chart-with-names-and-hex-codes.webp)
 
-**Inspirações:**  
+#### Inspirações
 - Canvas (Cartas com Transparência);<br>
 ![Exemplos de funcionamento dos cards em Canvas](reference/Ref_Canvas.png)
 - KleptoCats (Estilo Silly/Cute);<br>
@@ -184,6 +184,9 @@ A leitura visual deve permanecer clara mesmo em formato impresso, considerando o
 - Little Kitty Big City (Acessórios);<br>
 ![Exemplos de acessórios em Little Kitty Big City](reference/Ref_LKBG.webp)
 
+#### Cartas de Camada
+Referências para a pose na carta de camada.
+![Exemplos de funcionamento dos cards em Canvas](reference/Card_Camada_Pose.png)
 
 ### Elementos Sonoros
 Como se trata de um jogo de mesa, não há sistema sonoro nativo na experiência principal. Eventuais referências de atmosfera podem existir apenas como apoio na ambientação externa da partida.
@@ -211,6 +214,28 @@ Por ser um jogo de cartas físico, as “áreas” do jogo são funcionais e fí
 
 ### Personagens
 Os principais personagens são os próprios gatinhos montados durante a partida. Sua personalidade emerge da combinação de atributos, cores, temas e acessórios.
+
+#### Mascote
+O mascote do jogo é Mona, uma gata frajola sapeca que estará presente no manual, caixa e material de divulgação do jogo.
+
+
+- Mona (Referências);<br>
+![Mona (Referências)](reference/Pers_Mona_Refs.png)
+
+- Mona (Formas);<br>
+![Mona (Formas)](reference/Pers_Mona_Formas.png)
+
+- Mona (Rostos);<br>
+![EMona (Rostos)](reference/Pers_Mona_Rostos.png)
+
+- Mona (Expressões);<br>
+![Mona (Expressões)](reference/Pers_Mona_Expressões.png)
+
+- Mona (Acessórios);<br>
+![Mona (Acessórios)](reference/Pers_Mona_Acessórios.png)
+
+- Mona (Cores);<br>
+![Mona (Cores)](reference/Pers_Mona_Cores.png)
 
 ### Fases (Levels)
 Não há fases no sentido digital tradicional. A estrutura da partida se organiza pela montagem progressiva de três gatinhos por jogador até a pontuação final.
