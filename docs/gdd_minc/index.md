@@ -2,8 +2,6 @@
 
 > Modelo adaptado do Anexo II do manual *Game é Cultura, Game é Audiovisual* (MinC).
 
-//> Não é obrigatório preencher todos os subitens. Use apenas os que fizerem sentido para o projeto. Imagens e links de vídeos também podem ser incluídos para complementar as descrições.
-
 ---
 
 ## 1. Página de título
