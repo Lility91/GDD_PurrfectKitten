@@ -215,7 +215,14 @@ Os principais personagens são os próprios gatinhos montados durante a partida.
 ### Fases (Levels)
 Não há fases no sentido digital tradicional. A estrutura da partida se organiza pela montagem progressiva de três gatinhos por jogador até a pontuação final.
 
- - INSERIR IMAGENS DE ESTADOS DE JOGO DESENVOLVIDOS PARA O IVAN - 
+- Blueprint: (Start);<br>
+![Exemplos de estados de jogo (Start)](reference/Blueprint_Start.png)
+
+- Blueprint: (Middle);<br>
+![Exemplos de estados de jogo (Middle)](reference/Blueprint_Middle.png)
+
+- Blueprint: (End);<br>
+![Exemplos de estados de jogo (End)](reference/Blueprint_End.png)
 
 ### Fase de treino e/ou tutorial
 Não há um tutorial em si, mas, o manual vai explicar o jogo com imagens para ilustrar momentos de jogo e como interagir com ele.
