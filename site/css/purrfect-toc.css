@@ -80,3 +80,29 @@
     }
   }
   
+  .table-wrap {
+    overflow-x: auto;
+    margin: 1rem 0 2rem;
+  }
+  
+  .tabela-anexo {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 720px;
+  }
+  
+  .tabela-anexo th,
+  .tabela-anexo td {
+    padding: 0.65rem 0.8rem;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    text-align: left;
+    vertical-align: top;
+  }
+  
+  .tabela-anexo th {
+    background: rgba(255, 255, 255, 0.08);
+  }
+  
+  .tabela-anexo tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.03);
+  }
