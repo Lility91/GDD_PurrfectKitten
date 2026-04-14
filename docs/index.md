@@ -1,7 +1,7 @@
 # Purrfect Kitten
 
-Bem-vindo à página central do projeto.
+Bem-vindo à Home Page do projeto.
 
 ## Documentos
 - [Acessar GDD](gdd_minc/index.md)
-- [Acessar Anexos](planilhas/anexos.md)
+- [Acessar Planilhas](planilhas/anexos.md)

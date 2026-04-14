@@ -48,22 +48,22 @@ A progressão acontece ao longo da própria partida, conforme os jogadores compl
 
 ### Estrutura de Missões/Desafios
 Os desafios do jogo são dados pelas cartas de objetivo. No jogos temos três tipos de objetivo: 
- - Objetivos Globais, eles determinam se os jogadores devem focar em ter atributos diferentes ou repetidos;
- - Objetivos Trending: Combinações de Atributos específicos e temáticos que são distribuídos em 3 pilhas na mesa no início do jogo e coletados pelo jogador ao completá-los;
- - Objetivos de Conjunto (Escondidos), cada jogador recebe um ou início do jogo, eles são referentes ao conjunto de três gatos montados pelo jogador durante o jogo.
+ - [Objetivos globais](../planilhas/anexo_objetivos_globais.md): Permanentes durante todo o jogo dando pontos extras aos jogadores ao fim do jogo por cada gato concluído;
+ - [Objetivos trending](../planilhas/anexo_objetivos_trending.md): Combinações de Atributos específicos e temáticos que são distribuídos em 3 pilhas na mesa no início do jogo e coletados pelo jogador ao completá-los;
+ - [Objetivos de conjunto](../planilhas/anexo_objetivos_conjunto.md) (Escondidos): Cada jogador recebe três no início do jogo e escolhe um para manter, eles são referentes ao conjunto de três gatos montados pelo jogador durante o jogo.
 
 ### Objetivos
 O objetivo do jogador é conseguir a maior pontuação possível em seus gatinhos e/ou conjuntos de gatinhos ao final da partida.
 
 ### Mecânicas
-As principais mecânicas do jogo incluem:
-- Compra e gestão de mão;
-- Combinação de cartas;
-- Composição visual;
-- Coleção de atributos;
-- Construção de conjuntos;
-- Cumprimento de objetivos;
-- Comparação de resultados finais.
+As principais mecânicas do jogo incluem:<br>
+- Compra e gestão de mão;<br>
+- Combinação de cartas;<br>
+- Composição visual;<br>
+- Coleção de atributos;<br>
+- Construção de conjuntos;<br>
+- Cumprimento de objetivos;<br>
+- Comparação de resultados finais.<br>
 
 Cada carta de camada possui dois atributos. Esses atributos se distribuem em cinco grandes categorias:
 
@@ -75,57 +75,71 @@ Cada carta de camada possui dois atributos. Esses atributos se distribuem em cin
 
 As regras explícitas definem como os gatos podem ser montados e como os objetivos pontuam. As regras implícitas surgem da leitura do melhor encaixe entre cartas, atributos e timing de montagem.
 
+#### Balanceamento de Categorias e Atributos por Carta de Camada
+
+O baralho de 88 cartas de camada foi estruturado para distribuir os atributos do jogo de forma equilibrada entre as cinco categorias principais, sustentando tanto a variedade visual dos gatos quanto a diversidade de objetivos possíveis durante a partida.
+
+Cada carta de camada apresenta dois atributos, e a distribuição dessas combinações foi pensada para favorecer diferentes tipos de leitura estratégica: repetição de categorias, contraste entre categorias distintas, combinações temáticas específicas e objetivos de conjunto.
+
+Para consulta detalhada da distribuição das cartas e do balanceamento entre categorias e atributos, ver as planilhas de apoio abaixo:
+
+- [Cartas de Camada e Seus Atributos](../planilhas/anexo_atributos_cartas.md);
+- [Combinações de Categorias nas Cartas de Camada](../planilhas/anexo_atributos_combinacoes_categorias.md);
+- [Combinações de Atributos nas Cartas de Camada](../planilhas/anexo_atributos_combinacoes_atributos.md).
+
 ### Movimentação dentro do Game / Física
 Como se trata de um jogo analógico de cartas, não há movimentação espacial de personagem. A interação física mais próxima de uma movimentação é o uso de tokens de patas para adquirir cartas mais para frente na fila de compras.
+![Exemplos de funcionamento de uso dos Tokens de Pegada](reference/Paw_Token.jpg)
 
 ### Objetos
-Os principais objetos do jogo são:
-- 01x Caixa;
+Os principais objetos do jogo são:<br><br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 01x Caixa;<br>
 
-- 01x Manual;
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 01x Manual;<br>
 
-- 02x ou 04x Sheet de Referências de Categorias/Atributos;
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 02x ou 04x Sheet de Referências de Categorias/Atributos;<br>
 
-- 16x Cartas base com o lineart dos gatinhos;
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 12x Cartas base com o lineart dos gatinhos;<br>
 
-- 88x Cartas de camada impressas em transparência;
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 88x [Cartas de camadas](../planilhas/anexo_atributos_cartas.md) impressas em transparência;<br>
 
-- 02x Cartas de objetivo globais;
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 03x Cartas de [objetivos globais](../planilhas/anexo_objetivos_globais.md);<br>
 
-- ??x Cartas de objetivo "Trending";
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 28x Cartas de [objetivos trending](../planilhas/anexo_objetivos_trending.md);<br>
 
-- ??x Cartas de objetivo de conjunto;
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 22x Cartas de [objetivos de conjunto](../planilhas/anexo_objetivos_conjunto.md);<br>
 
-- 16x Tokens de pegadas.
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+- 16x Tokens de pegadas.<br>
+
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br><br>
 
 As cartas base funcionam como suporte visual para a composição final. As cartas de camada acrescentam cor, padrão de pelagem/mutações e acessórios, além dos atributos usados para pontuação.
 
 ### Ações
-As ações principais envolvem:
-- Comprar cartas de camada;
-- Organizar a mão e planejar combinações;
-- Montar os gatinhos;
-- Verificar os atributos visíveis;
-- Cumprir objetivos;
-- Contar os pontos ao fim do jogo.
+As ações principais envolvem:<br><br>
+- Comprar cartas de camada;<br>
+- Organizar a mão e planejar combinações;<br>
+- Montar os gatinhos;<br>
+- Verificar os atributos visíveis;<br>
+- Cumprir objetivos;<br>
+- Contar os pontos ao fim do jogo.<br><br>
 
 A comunicação do jogo é majoritariamente visual, apoiada por símbolos de atributo e leitura direta das composições.
 
@@ -136,9 +150,9 @@ Não há combate. O conflito é indireto, centrado na aquisição de cartas que,
 Até o momento, o jogo não apresenta economia tradicional com moedas ou ouro. Os tokens de pegada, usados para comprar cartas mais próximas do baralho (avançadas) nas filas de compra são o mais próximo que temos de uma economia e nesse caso é um jogo de economia fechada, nunca existem mais do que 16 pegadas em jogo.
 
 ### Opções de Jogo
-Por enquanto, o jogo apresenta apenas um modo (o modo descrito acima), porém, é possível:
- - Um modo sem pontuação, caso seja necessário tornar o jogo mais casual ainda;
- - Um modo onde o jogo acaba quando o primeiro jogador terminar seu terceiro gato, mesmo que os demais não tenham completado os seus, para tornar o jogo ainda mais competitivo e rápido.
+Por enquanto, o jogo apresenta apenas um modo (o modo descrito acima), porém, é possível:<br>
+ - Um modo sem pontuação, caso seja necessário tornar o jogo mais casual ainda;<br>
+ - Um modo onde o jogo acaba quando o primeiro jogador terminar seu terceiro gato, mesmo que os demais não tenham completado os seus, para tornar o jogo ainda mais competitivo e rápido.<br>
 
  Tais mudanças podem afetar a duração do jogo além de seu nível de complexidade/desafio.
 
@@ -146,26 +160,26 @@ Por enquanto, o jogo apresenta apenas um modo (o modo descrito acima), porém, �
 Por ser um jogo analógico, não há sistema de save. A rejogabilidade vem da recombinação das cartas e da variedade de objetivos.
 
 ### Easter Eggs, Cheats e conteúdo bônus
-Algumas cartas trazem referências específicas à cultura geek/nerd, são elas:
+Algumas cartas trazem referências específicas à cultura geek/nerd, são elas:<br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
-Além das cartas de camadas, alguns objetivos também trazem referências específicas, como:
+Além das cartas de camadas, alguns objetivos também trazem referências específicas, como:<br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - 
+ - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
 ---
 
 ## 4. Arte do Game
 
 ### Elementos Visuais
-A direção de arte do jogo é baseada em uma estética cozy + cute, com forte inspiração em universos de customização visual e criaturas colecionáveis. Os gatos devem apresentar:
-- Cabeças grandes em estilo cartoon;
-- Corpos compactos;
-- Pernas curtas e mais gordinhas, estilo chibi;
-- Olhos grandes e expressivos;
-- Caudas curvas e compridas;
-- Formas predominantemente arredondadas.
+A direção de arte do jogo é baseada em uma estética cozy + cute, com forte inspiração em universos de customização visual e criaturas colecionáveis. Os gatos devem apresentar:<br><br>
+- Cabeças grandes em estilo cartoon;<br>
+- Corpos compactos;<br>
+- Pernas curtas e mais gordinhas, estilo chibi;<br>
+- Olhos grandes e expressivos;<br>
+- Caudas curvas e compridas;<br>
+- Formas predominantemente arredondadas.<br><br>
 
 A leitura visual deve permanecer clara mesmo em formato impresso, considerando o uso em cartas em tamanho 70mm x 120mm para todas as cartas do jogo.
 
@@ -205,11 +219,11 @@ O mundo do jogo é acolhedor, vibrante, fofo e levemente mágico, funcionando co
 A ambientação é menos narrativa e mais estética, baseada em categorias como tema, paleta, vibe, origem e celebração. Isso permite que cada composição sugira um micro-universo visual próprio.
 
 ### Áreas do jogo
-Por ser um jogo de cartas físico, as “áreas” do jogo são funcionais e físicas:
-- Mão do jogador;
-- Filas de compras das cartas de camada;
-- Área de objetivos;
-- Área de Exposição de cada jogador, onde ele exibe seus gatinhos já montados;
+Por ser um jogo de cartas físico, as “áreas” do jogo são funcionais e físicas:<br><br>
+- Mão do jogador;<br>
+- Filas de compras das cartas de camada;<br>
+- Área de objetivos;<br>
+- Área de Exposição de cada jogador, onde ele exibe seus gatinhos já montados;<br>
 - Área de objetivos já concluídos.
 
 ### Personagens
@@ -260,9 +274,9 @@ Não há um tutorial em si, mas, o manual vai explicar o jogo com imagens para i
 A interface é constituída pelo layout das cartas, lineart base, símbolos de atributos, composição em camadas e leitura visual geral da mesa. O sistema visual precisa equilibrar fofura, clareza e facilidade de leitura.
 
 #### Layout das Cartas
-- Cartas da Camada:
- - INSERIR IMAGENS -
-- Cartas de Objetivos:
+- Cartas da Camada:<br>
+ - INSERIR IMAGENS -<br>
+- Cartas de Objetivos:<br>
  - INSERIR IMAGENS -
 
 #### Símbolos dos Atributos
@@ -272,9 +286,9 @@ A interface é constituída pelo layout das cartas, lineart base, símbolos de a
 O controle do jogo é manual e físico, feito por posicionamento, sobreposição e manuseio das cartas.
 
 ### Sistema de Ajuda
-O jogo conta com:
-- Manual;
-- Folha lembrete dos símbolos de atributos;
+O jogo conta com:<br><br>
+- Manual;<br>
+- Folha lembrete dos símbolos de atributos;<br>
 - Exemplos de montagem para facilitar o entendimento nas primeiras partidas/rodadas (ilustrados no manual).
 
 ---
