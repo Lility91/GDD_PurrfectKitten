@@ -275,9 +275,9 @@ A interface é constituída pelo layout das cartas, lineart base, símbolos de a
 
 #### Layout das Cartas
 - Cartas da Camada:<br>
- - INSERIR IMAGENS -<br>
+ ![Layout de Exemplo da Carta de Camada](reference/Diagramacao_Carta_Camada.png)<br>
 - Cartas de Objetivos:<br>
- - INSERIR IMAGENS -
+ ![Layout de Exemplo da Carta de Objetivos](reference/Diagramacao_Carta_Desafio.png)
 
 #### Símbolos dos Atributos
  - INSERIR IMAGENS -
