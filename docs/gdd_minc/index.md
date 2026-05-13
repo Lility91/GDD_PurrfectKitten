@@ -128,6 +128,7 @@ Os principais objetos do jogo são:<br><br>
 
 - 16x Tokens de pegadas.<br>
 
+ - ![Modelo em 3D](reference/Token.png)
  - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br><br>
 
 As cartas base funcionam como suporte visual para a composição final. As cartas de camada acrescentam cor, padrão de pelagem/mutações e acessórios, além dos atributos usados para pontuação.
