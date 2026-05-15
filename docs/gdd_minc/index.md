@@ -98,7 +98,7 @@ Os principais objetos do jogo são:<br><br>
 
  - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
-- 01x Manual;<br>
+- 01x [Manual](../planilhas/anexo_manual_jogo.md);<br>
 
  - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
 
