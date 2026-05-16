@@ -95,41 +95,32 @@ Como se trata de um jogo analógico de cartas, não há movimentação espacial 
 Os principais objetos do jogo são:<br><br>
 
 - 01x Caixa;<br>
-
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 01x [Manual](../planilhas/anexo_manual_jogo.md);<br>
-
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 02x ou 04x Sheet de Referências de Categorias/Atributos;<br>
-
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 12x Cartas base com o lineart dos gatinhos;<br>
-
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 88x [Cartas de camadas](../planilhas/anexo_atributos_cartas.md) impressas em transparência;<br>
-
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 03x Cartas de [objetivos globais](../planilhas/anexo_objetivos_globais.md);<br>
-
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 28x Cartas de [objetivos trending](../planilhas/anexo_objetivos_trending.md);<br>
-
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 22x Cartas de [objetivos de conjunto](../planilhas/anexo_objetivos_conjunto.md);<br>
-
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 16x Tokens de pegadas.<br>
-
  - ![Modelo em 3D](reference/Token.png)
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br><br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br><br>
 
 As cartas base funcionam como suporte visual para a composição final. As cartas de camada acrescentam cor, padrão de pelagem/mutações e acessórios, além dos atributos usados para pontuação.
 
@@ -163,11 +154,11 @@ Por ser um jogo analógico, não há sistema de save. A rejogabilidade vem da re
 ### Easter Eggs, Cheats e conteúdo bônus
 Algumas cartas trazem referências específicas à cultura geek/nerd, são elas:<br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 Além das cartas de camadas, alguns objetivos também trazem referências específicas, como:<br>
 
- - INSERIR AQUI APÓS O FIM DAS ILUSTRAÇÕES - <br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 ---
 
@@ -281,14 +272,14 @@ A interface é constituída pelo layout das cartas, lineart base, símbolos de a
  ![Layout de Exemplo da Carta de Objetivos](reference/Diagramacao_Carta_Desafio.png)
 
 #### Símbolos dos Atributos
- - INSERIR IMAGENS -
+ > [Inserir Imagem ao Fim do Desenvolvimento.]
 
 ### Sistema de Controle
 O controle do jogo é manual e físico, feito por posicionamento, sobreposição e manuseio das cartas.
 
 ### Sistema de Ajuda
 O jogo conta com:<br><br>
-- Manual;<br>
+- [Manual](../planilhas/anexo_manual_jogo.md);<br>
 - Folha lembrete dos símbolos de atributos;<br>
 - Exemplos de montagem para facilitar o entendimento nas primeiras partidas/rodadas (ilustrados no manual).
 
