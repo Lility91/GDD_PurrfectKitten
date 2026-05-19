@@ -15,6 +15,8 @@ Mas não basta criar o gatinho mais bonito! Para vencer, é preciso observar os 
 
 Ao final do jogo, vence quem tiver criado o conjunto de gatos mais purrfeito~!
 
+> [Inserir Imagem 1.1 — Mona - Mascote.]
+
 ## 2. Componentes
 
 Antes de começar a partida, confira se todos os componentes de **Purrfect Kitten** estão disponíveis:
@@ -34,7 +36,7 @@ Antes de iniciar a partida, é importante conhecer alguns conceitos usados ao lo
 
 ### 3.1 Gatos
 
-Cada jogador monta três gatos durante a partida. Cada gato é formado pela combinação de uma **Carta Base** com **Cartas de Camada**, criando uma composição visual única.
+Cada jogador monta três gatos durante a partida. Cada gato é formado pela combinação de uma **Carta Base** com **Cartas de Camada**, criando uma composição visual única. A montagem dos gatos é explicada em detalhes na seção **6. Montando um Gato**.
 
 ### 3.2 Cartas Base
 
@@ -42,7 +44,9 @@ As **Cartas Base** apresentam a lineart dos gatinhos e servem como suporte visua
 
 ### 3.3 Cartas de Camada
 
-As **Cartas de Camada** acrescentam elementos visuais aos gatos, como cores, padrões, mutações e acessórios. Cada **Carta de Camada** possui também dois **Atributos**, que serão usados para cumprir objetivos e calcular a pontuação.
+As **Cartas de Camada** acrescentam elementos visuais aos gatos, como cores, padrões, mutações e acessórios. Cada **Carta de Camada** possui também dois **Atributos**, que serão usados para cumprir objetivos e calcular a pontuação. 
+
+O funcionamento dos objetivos é explicado na seção **7. Objetivos**, e a pontuação final na seção **9. Pontuação Final**.
 
 ### 3.4 Atributos
 
@@ -110,11 +114,17 @@ Em seguida, embaralhe e prepare as **Cartas de Objetivo Trending**, separando-as
 
 Por fim, embaralhe e distribua 3 **Cartas de Objetivo de Conjunto** para cada jogador. Cada jogador deve escolher 1 delas para manter como objetivo secreto e devolver as demais para a caixa.
 
+O funcionamento de cada tipo de objetivo é explicado em detalhes na seção **7. Objetivos**.
+
 ### 4.2 Prepare as Cartas de Camada
 
 Embaralhe todas as **Cartas de Camada** e forme um baralho virado para baixo.
 
 Depois, revele as 10 primeiras **Cartas de Camada** do baralho e organize-as em duas filas de 5 cartas cada, deixando um espaço entre as duas filas. Esse espaço será usado como caminho para a compra de cartas com **Tokens de Pegada**.
+
+A compra de cartas na **Área de Compra** é explicada na seção **5.3 Pegando Cartas de Camada**.
+
+> [Inserir Imagem 4.2.1 — Mesa montada com Baralho, Área de Compra e Área de Objetivos.]
 
 Coloque o baralho de **Cartas de Camada** ao lado do espaço entre as filas.
 
@@ -131,9 +141,11 @@ A **Carta de Objetivo de Conjunto** escolhida por cada jogador deve ser mantida 
 
 ### 4.4 Defina o Jogador Inicial
 
-O jogador com mais gatos começa a partida.
+O jogador com mais gatos (de verdade) começa a partida.
 
 Em caso de empate, começa o jogador que interagiu com um gato mais recentemente.
+
+Se ainda estiverem empatados, o jogador que tirou uma foto de seu gato mais recentemente começa.
 
 ## 5. Como Jogar
 
@@ -144,16 +156,16 @@ Em seu turno, o jogador deve escolher **uma** entre duas ações possíveis:
 1. **Pegar uma Carta de Camada**; ou
 2. **Montar um gato**.
 
-O jogador não pode pegar uma **Carta de Camada** e montar um gato no mesmo turno. Por isso, é importante planejar quando adquirir novas cartas e quando usar as cartas já obtidas para montar um gato.
+O jogador não pode pegar uma **Carta de Camada** e **Montar um gato** no mesmo turno. Por isso, é importante planejar quando adquirir novas cartas e quando usar as cartas já obtidas para montar um gato.
 
 ### 5.1 Estrutura do Turno
 
 No seu turno, escolha e realize **uma** das ações abaixo:
 
-1. **Pegar uma Carta de Camada** da **Área de Compra**; ou
-2. **Montar um gato**, usando cartas disponíveis em sua mão.
+1. **Pegar uma Carta de Camada** da **Área de Compra**, conforme explicado na seção **5.3 Pegando Cartas de Camada**; ou
+2. **Montar um gato**, conforme explicado na seção **6. Montando um Gato**.
 
-Depois de realizar a ação escolhida, verifique se algum **Objetivo Trending** foi cumprido, caso tenha escolhido a ação de montar um gato.
+Depois de realizar a ação escolhida, verifique se algum **Objetivo Trending** foi cumprido, caso tenha escolhido a ação de montar um gato. Os **Objetivos Trending** são explicados na seção **7.2 Objetivos Trending**.
 
 ### 5.2 Limite de Cartas na Mão
 
@@ -163,13 +175,13 @@ Se, no início de seu turno, o jogador já tiver 5 **Cartas de Camada** na mão,
 
 Caso o jogador não tenha cartas suficientes para completar todas as camadas do gato, ainda assim ele deverá montar um gato com as cartas disponíveis, seguindo as regras de montagem descritas na seção **6. Montando um Gato**.
 
-Em alguns casos, montar um gato sem a **Camada 1** pode exigir que o jogador queime uma carta, conforme explicado na seção **6. Montando um Gato**.
+Em alguns casos, montar um gato sem a **Camada 1** pode exigir que o jogador queime uma carta, conforme explicado na seção **6.5 Queimar uma Carta**.
 
 ### 5.3 Pegando Cartas de Camada
 
 A **Área de Compra** é formada por duas filas de 5 **Cartas de Camada**, com um espaço entre elas. Esse espaço funciona como um caminho por onde o jogador pode avançar usando **Tokens de Pegada**.
 
-Ao escolher a ação **Pegar uma Carta de Camada**, o jogador pode pegar uma carta gratuita ou gastar **Tokens de Pegada** para alcançar uma carta específica.
+Ao escolher a ação **5.3.1 Pegar uma Carta de Camada**, o jogador pode pegar uma carta gratuita ou **5.3.2 Usar Tokens de Pegada** para alcançar uma carta específica.
 
 #### 5.3.1 Pegar uma Carta Gratuita
 
@@ -184,6 +196,8 @@ Para pegar uma carta que esteja mais próxima do baralho, o jogador deve gastar 
 Escolha uma das **Cartas de Camada** disponíveis na **Área de Compra**. A partir da ponta mais afastada do baralho, avance pelo caminho entre as duas filas em direção ao baralho. Para cada espaço ultrapassado, coloque 1 **Token de Pegada** naquele espaço.
 
 Após pagar os **Tokens de Pegada** necessários, o jogador pode pegar uma das **Cartas de Camada** disponíveis no espaço seguinte ao último **Token de Pegada** colocado, escolhendo uma das duas cartas que ficam acima e abaixo daquele espaço.
+
+> [Inserir Imagem 5.3.2.1 — Exemplo de Uso de Tokens de Pegada]
 
 Se houver **Tokens de Pegada** no espaço correspondente à carta escolhida, o jogador também recebe esses tokens e os adiciona à sua reserva pessoal.
 
@@ -272,7 +286,7 @@ Os **Objetivos Globais** são objetivos comuns a todos os jogadores.
 
 Durante a preparação da partida, 1 **Carta de Objetivo Global** é revelada no centro da mesa. Ela permanece ativa durante toda a partida e pode ser pontuada por todos os jogadores ao final do jogo.
 
-Cada **Objetivo Global** indica uma condição de pontuação relacionada aos gatos montados. Ao final da partida, cada jogador verifica quais de seus gatos cumprem a condição indicada na carta e soma os pontos correspondentes.
+Cada **Objetivo Global** indica uma condição de pontuação relacionada aos gatos montados. Ao final da partida, cada jogador verifica quais de seus gatos cumprem a condição indicada na carta e soma os pontos correspondentes, conforme explicado na seção **9. Pontuação Final**.
 
 ### 7.2 Objetivos Trending
 
@@ -290,7 +304,7 @@ Os **Objetivos de Conjunto** são objetivos secretos que avaliam o conjunto dos 
 
 Durante a preparação da partida, cada jogador recebe 3 **Cartas de Objetivos de Conjunto**, escolhe 1 delas para manter em segredo e devolve as demais para a caixa.
 
-Ao final da partida, cada jogador revela sua **Carta de Objetivo de Conjunto** e verifica se seus três gatos cumprem a condição indicada. Se cumprir, soma os pontos correspondentes.
+Ao final da partida, cada jogador revela sua **Carta de Objetivo de Conjunto** e verifica se seus três gatos cumprem a condição indicada. Se cumprir, soma os pontos correspondentes, conforme explicado na seção **9. Pontuação Final**.
 
 Os **Objetivos de Conjunto** podem exigir, por exemplo, que os três gatos compartilhem uma mesma **Categoria**, possuam **Atributos** específicos, formem uma sequência temática ou apresentem características visuais em comum.
 
@@ -300,7 +314,7 @@ Na regra padrão, a partida termina quando todos os jogadores tiverem montado se
 
 Caso um jogador monte seu terceiro gato antes dos demais, ele não realiza novos turnos. Os demais jogadores continuam jogando normalmente até que todos tenham montado seus três gatos.
 
-Quando todos os jogadores tiverem três gatos montados, a partida se encerra imediatamente e os jogadores seguem para a **Pontuação Final**.
+Quando todos os jogadores tiverem três gatos montados, a partida se encerra imediatamente e os jogadores seguem para a **Pontuação Final**, explicada na seção **9. Pontuação Final**.
 
 Para partidas mais rápidas e disputadas, consulte a **Variação Competitiva**, descrita na seção **11. Variações de Jogo**.
 
@@ -348,6 +362,8 @@ Nessa variação, o grupo pode escolher uma das opções abaixo:
 - Jogar apenas com 1 **Carta de Objetivo Global**, sem **Objetivos Trending** e sem **Objetivos de Conjunto**.
 
 Essa variação é indicada para partidas com crianças ou grupos que queiram uma experiência mais tranquila e menos estratégica. Ela reduz a competição por **Objetivos Trending**, que representam o ponto de conflito mais direto do jogo, e diminui a complexidade ao remover **Objetivos de Conjunto**, que ficam escondidos e podem ser esquecidos por jogadores iniciantes ou mais jovens.
+
+> **Importante:** Caso o grupo escolha a **Variação Casual**, a única opção de desempate será a quantidade de **Tokens de Pegada**.
 
 ## 12. Exemplos de Jogo
 
