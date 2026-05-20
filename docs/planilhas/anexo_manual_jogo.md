@@ -17,22 +17,15 @@ Ao final do jogo, vence quem tiver criado o conjunto de gatos mais purrfeito~!
 
 > [Inserir Imagem 1.1 — Mona - Mascote.]
 
-## 2. Componentes
+## 2. Objetivo do Jogo
 
-Antes de começar a partida, confira se todos os componentes de **Purrfect Kitten** estão disponíveis:
+O objetivo de **Purrfect Kitten** é montar o conjunto de gatos mais purrfeito e alcançar a maior pontuação ao final da partida.
 
-- 12 Cartas Base com lineart dos gatinhos;
-- 88 Cartas de Camada;
-- 3 Cartas de Objetivo Global;
-- 28 Cartas de Objetivo Trending;
-- 22 Cartas de Objetivo de Conjunto;
-- 16 Tokens de Pegada;
-- 4 Folhas de Referência de Categorias e Atributos;
-- 1 Manual de Regras.
+Durante o jogo, cada jogador monta três gatos usando **Cartas de Camada** sobre **Cartas Base**. Para pontuar, os jogadores devem observar os **Objetivos Globais**, disputar **Objetivos Trending** e cumprir seu **Objetivo de Conjunto** secreto.
+
+Ao final da partida, vence o jogador com a maior pontuação!
 
 ## 3. Conceitos Importantes
-
-Antes de iniciar a partida, é importante conhecer alguns conceitos usados ao longo do **Manual de Regras**.
 
 ### 3.1 Gatos
 
@@ -42,15 +35,21 @@ Cada jogador monta três gatos durante a partida. Cada gato é formado pela comb
 
 As **Cartas Base** apresentam a lineart dos gatinhos e servem como suporte visual para a montagem de cada gato. É sobre elas que as **Cartas de Camada** serão posicionadas ao longo da partida.
 
+> [Inserir Imagem 3.2.1 — Exemplo de uma **Carta Base** com lineart de gato.]
+
 ### 3.3 Cartas de Camada
 
 As **Cartas de Camada** acrescentam elementos visuais aos gatos, como cores, padrões, mutações e acessórios. Cada **Carta de Camada** possui também dois **Atributos**, que serão usados para cumprir objetivos e calcular a pontuação. 
+
+> [Inserir Imagem 3.3.1 — Exemplos de **Cartas de Camada**, mostrando elementos como cor, padrão, mutação e acessório.]
 
 O funcionamento dos objetivos é explicado na seção **7. Objetivos**, e a pontuação final na seção **9. Pontuação Final**.
 
 ### 3.4 Atributos
 
 Os **Atributos** representam características temáticas, visuais ou conceituais presentes nas **Cartas de Camada**. Eles indicam, por exemplo, se uma carta está associada a uma estética mais fofa, sombria, festiva, mágica ou futurista.
+
+> [Inserir Imagem 3.4.1 — Detalhe de uma **Carta de Camada**, destacando seus dois **Atributos**.]
 
 Cada **Carta de Camada** possui dois **Atributos**.
 
@@ -60,47 +59,15 @@ Cada **Atributo** pertence a uma das cinco **Categorias** do jogo: **Origem**, *
 
 As **Categorias** ajudam a organizar os **Atributos** e são importantes para a pontuação dos **Objetivos Globais**, **Objetivos Trending** e **Objetivos de Conjunto**.
 
-### 3.6 Lista de Categorias e Atributos
+### 3.6 Referência de Categorias e Atributos
 
-#### Origem
-
-- Mitológica;
-- Geek;
-- Natural;
-- Mágico;
-- Cósmico.
-
-#### Vibe
-
-- Fofo;
-- Romântico;
-- Elegante;
-- Selvagem;
-- Sombrio.
-
-#### Tema
-
-- Terror;
-- Infantil;
-- Sci-fi;
-- Drama;
-- Comédia.
-
-#### Paleta
-
-- Vibrante;
-- Pastel;
-- Frio;
-- Quente;
-- Neutro.
-
-#### Celebração
-
-- Carnaval;
-- Páscoa;
-- Festa Junina;
-- Halloween;
-- Natal.
+| Categoria | Atributos |
+|---|---|
+| **Origem** | [ícone Mitológica] Mitológica · [ícone Geek] Geek · [ícone Natural] Natural · [ícone Mágico] Mágico · [ícone Cósmico] Cósmico |
+| **Vibe** | [ícone Fofo] Fofo · [ícone Romântico] Romântico · [ícone Elegante] Elegante · [ícone Selvagem] Selvagem · [ícone Sombrio] Sombrio |
+| **Tema** | [ícone Terror] Terror · [ícone Infantil] Infantil · [ícone Sci-fi] Sci-fi · [ícone Drama] Drama · [ícone Comédia] Comédia |
+| **Paleta** | [ícone Vibrante] Vibrante · [ícone Pastel] Pastel · [ícone Frio] Frio · [ícone Quente] Quente · [ícone Neutro] Neutro |
+| **Celebração** | [ícone Carnaval] Carnaval · [ícone Páscoa] Páscoa · [ícone Festa Junina] Festa Junina · [ícone Halloween] Halloween · [ícone Natal] Natal |
 
 ## 4. Preparação da Partida
 
@@ -114,6 +81,8 @@ Em seguida, embaralhe e prepare as **Cartas de Objetivo Trending**, separando-as
 
 Por fim, embaralhe e distribua 3 **Cartas de Objetivo de Conjunto** para cada jogador. Cada jogador deve escolher 1 delas para manter como objetivo secreto e devolver as demais para a caixa.
 
+> [Inserir Imagem 4.1.1 — Mesa preparada para uma partida, com **Carta de Objetivo Global** e pilhas de **Objetivos Trending**.]
+
 O funcionamento de cada tipo de objetivo é explicado em detalhes na seção **7. Objetivos**.
 
 ### 4.2 Prepare as Cartas de Camada
@@ -124,7 +93,7 @@ Depois, revele as 10 primeiras **Cartas de Camada** do baralho e organize-as em 
 
 A compra de cartas na **Área de Compra** é explicada na seção **5.3 Pegando Cartas de Camada**.
 
-> [Inserir Imagem 4.2.1 — Mesa montada com Baralho, Área de Compra e Área de Objetivos.]
+> [Inserir Imagem 4.2.1 — Mesa preparada para uma partida, com **Carta de Objetivo Global**, pilhas de **Objetivos Trending**, **Área de Compra** e baralho de **Cartas de Camada**.]
 
 Coloque o baralho de **Cartas de Camada** ao lado do espaço entre as filas.
 
@@ -136,6 +105,8 @@ Cada jogador recebe:
 - 4 **Tokens de Pegada**.
 
 As **Cartas Base** devem ficar à frente de cada jogador, formando sua área individual de montagem. Os **Tokens de Pegada** devem ficar próximos ao jogador, em uma reserva pessoal.
+
+> [Inserir Imagem 4.3.1 — Mesa preparada para uma partida, com **Carta de Objetivo Global**, pilhas de **Objetivos Trending**, **Área de Compra**, baralho de **Cartas de Camada**, **Cartas Base** com lineart de gato e **Tokens de Pegada**.]
 
 A **Carta de Objetivo de Conjunto** escolhida por cada jogador deve ser mantida em segredo até o final da partida.
 
@@ -157,6 +128,8 @@ Em seu turno, o jogador deve escolher **uma** entre duas ações possíveis:
 2. **Montar um gato**.
 
 O jogador não pode pegar uma **Carta de Camada** e **Montar um gato** no mesmo turno. Por isso, é importante planejar quando adquirir novas cartas e quando usar as cartas já obtidas para montar um gato.
+
+Para acompanhar uma rodada ilustrada passo a passo, consulte o **Guia de Turno de Exemplo**.
 
 ### 5.1 Estrutura do Turno
 
@@ -181,7 +154,9 @@ Em alguns casos, montar um gato sem a **Camada 1** pode exigir que o jogador que
 
 A **Área de Compra** é formada por duas filas de 5 **Cartas de Camada**, com um espaço entre elas. Esse espaço funciona como um caminho por onde o jogador pode avançar usando **Tokens de Pegada**.
 
-Ao escolher a ação **5.3.1 Pegar uma Carta de Camada**, o jogador pode pegar uma carta gratuita ou **5.3.2 Usar Tokens de Pegada** para alcançar uma carta específica.
+> [Inserir Imagem 5.3.1 — **Área de Compra** com duas filas de 5 **Cartas de Camada**, espaço central e baralho ao lado.]
+
+Ao escolher a ação **Pegar uma Carta de Camada**, o jogador pode pegar uma carta gratuita ou **Usar Tokens de Pegada** para alcançar uma carta específica.
 
 #### 5.3.1 Pegar uma Carta Gratuita
 
@@ -197,7 +172,7 @@ Escolha uma das **Cartas de Camada** disponíveis na **Área de Compra**. A part
 
 Após pagar os **Tokens de Pegada** necessários, o jogador pode pegar uma das **Cartas de Camada** disponíveis no espaço seguinte ao último **Token de Pegada** colocado, escolhendo uma das duas cartas que ficam acima e abaixo daquele espaço.
 
-> [Inserir Imagem 5.3.2.1 — Exemplo de Uso de Tokens de Pegada]
+> [Inserir Imagem 5.3.2.1 — Exemplo de compra usando **Tokens de Pegada**, com tokens colocados nos espaços ultrapassados.]
 
 Se houver **Tokens de Pegada** no espaço correspondente à carta escolhida, o jogador também recebe esses tokens e os adiciona à sua reserva pessoal.
 
@@ -207,9 +182,13 @@ Depois que uma **Carta de Camada** for pega, reorganize a fila correspondente, d
 
 Em seguida, revele uma nova **Carta de Camada** do baralho e coloque-a na posição mais próxima do baralho, mantendo a **Área de Compra** sempre com 10 cartas, enquanto houver cartas disponíveis no baralho.
 
+> [Inserir Imagem 5.3.3.1 — Exemplo de reposição da **Área de Compra**, deslizando cartas e revelando uma nova carta próxima ao baralho.]
+
 ## 6. Montando um Gato
 
 Ao escolher a ação **Montar um gato**, o jogador usa as cartas disponíveis em sua mão para formar um dos três gatos de sua área individual.
+
+> [Inserir Imagem 6.1 — **Carta Base** e três **Cartas de Camada** separadas antes da montagem.]
 
 Cada gato deve ser montado sobre uma **Carta Base**. Normalmente, um gato pode ser formado por até três **Cartas de Camada**: uma **Carta de Camada 1**, uma **Carta de Camada 2** e uma **Carta de Camada 3**.
 
@@ -238,6 +217,8 @@ Quando um gato possuir mais de uma camada, as cartas devem ser organizadas de ac
 2. **Carta de Camada 2**;
 3. **Carta de Camada 3**.
 
+> [Inserir Imagem 6.2.1 — Exemplo de gato montado com **Carta de Camada 1**, **Carta de Camada 2** e **Carta de Camada 3** sobrepostas na ordem correta.]
+
 A **Carta de Camada 1** fica mais próxima da **Carta Base**. A **Carta de Camada 3** fica por cima das demais.
 
 ### 6.3 Montagem sem Todas as Camadas
@@ -264,6 +245,8 @@ Nesse caso, o jogador poderá montar o gato sem a **Carta de Camada 1**. Para is
 
 Em **Purrfect Kitten**, as cartas normalmente não podem ser descartadas. A única exceção acontece quando um jogador precisa montar um gato, mas não possui nenhuma **Carta de Camada 1** em sua mão.
 
+> [Inserir Imagem 6.5.1 — Exemplo de jogador sem **Carta de Camada 1** queimando uma carta para montar um gato sem essa camada.]
+
 Nesse caso, o jogador deve escolher 1 **Carta de Camada** de sua mão, descartá-la e colocá-la em uma pilha de descarte. Depois disso, ele monta o gato sem a **Camada 1**, usando as demais cartas disponíveis em sua mão da forma que desejar, respeitando o limite de uma carta por camada.
 
 ### 6.6 Gatos Montados
@@ -286,13 +269,17 @@ Os **Objetivos Globais** são objetivos comuns a todos os jogadores.
 
 Durante a preparação da partida, 1 **Carta de Objetivo Global** é revelada no centro da mesa. Ela permanece ativa durante toda a partida e pode ser pontuada por todos os jogadores ao final do jogo.
 
+> [Inserir Imagem 7.1.1 — Exemplo de **Carta de Objetivo Global** revelada no centro da mesa.]
+
 Cada **Objetivo Global** indica uma condição de pontuação relacionada aos gatos montados. Ao final da partida, cada jogador verifica quais de seus gatos cumprem a condição indicada na carta e soma os pontos correspondentes, conforme explicado na seção **9. Pontuação Final**.
 
 ### 7.2 Objetivos Trending
 
 Os **Objetivos Trending** representam combinações específicas de **Atributos** que estão em destaque durante a partida.
 
-Durante a preparação, as **Cartas de Objetivos Trending** são organizadas em três pilhas, e a primeira carta de cada pilha fica revelada na mesa.
+Durante a preparação, as **Cartas de Objetivo Trending** são organizadas em três pilhas, e a primeira carta de cada pilha fica revelada na mesa.
+
+> [Inserir Imagem 7.2.1 — Exemplo de três pilhas de **Cartas de Objetivo Trending**, com a primeira carta de cada pilha revelada.]
 
 Quando um jogador monta um gato que cumpre a condição de um **Objetivo Trending** revelado, ele coleta aquela carta e a mantém em sua área de objetivos concluídos. Em seguida, revela a próxima **Carta de Objetivo Trending** daquela mesma pilha.
 
@@ -302,7 +289,9 @@ Cada **Objetivo Trending** só pode ser coletado uma vez. Depois que uma carta �
 
 Os **Objetivos de Conjunto** são objetivos secretos que avaliam o conjunto dos três gatos montados por cada jogador.
 
-Durante a preparação da partida, cada jogador recebe 3 **Cartas de Objetivos de Conjunto**, escolhe 1 delas para manter em segredo e devolve as demais para a caixa.
+Durante a preparação da partida, cada jogador recebe 3 **Cartas de Objetivo de Conjunto**, escolhe 1 delas para manter em segredo e devolve as demais para a caixa.
+
+> [Inserir Imagem 7.3 — Exemplo de 3 **Carta de Objetivo de Conjunto** e uma sendo mantida em segredo na área do jogador.]
 
 Ao final da partida, cada jogador revela sua **Carta de Objetivo de Conjunto** e verifica se seus três gatos cumprem a condição indicada. Se cumprir, soma os pontos correspondentes, conforme explicado na seção **9. Pontuação Final**.
 
@@ -322,6 +311,8 @@ Para partidas mais rápidas e disputadas, consulte a **Variação Competitiva**,
 
 Ao final da partida, cada jogador revela sua **Carta de Objetivo de Conjunto** e calcula sua pontuação final com base nos gatos que montou.
 
+> [Inserir Imagem 9.1 — Exemplo de área final de um jogador com três gatos montados, **Objetivos Trending** coletados, **Objetivo Global** e **Objetivo de Conjunto** revelado.]
+
 Cada jogador deve somar:
 
 1. Os pontos obtidos pelos **Objetivos Trending** coletados durante a partida;
@@ -330,9 +321,11 @@ Cada jogador deve somar:
 
 O jogador com a maior pontuação vence.
 
+Para ver um exemplo completo de cálculo de pontos, consulte o **Guia de Turno de Exemplo**.
+
 ## 10. Desempate
 
-Em caso de empate, vence o jogador que tiver coletado mais **Cartas de Objetivos Trending** durante a partida.
+Em caso de empate, vence o jogador que tiver coletado mais **Cartas de Objetivo Trending** durante a partida.
 
 Se o empate persistir, vence o jogador que tiver mais **Tokens de Pegada** restantes em sua reserva pessoal.
 
@@ -365,6 +358,7 @@ Essa variação é indicada para partidas com crianças ou grupos que queiram um
 
 > **Importante:** Caso o grupo escolha a **Variação Casual**, a única opção de desempate será a quantidade de **Tokens de Pegada**.
 
+<!-- INÍCIO DO CONTEÚDO MOVIDO PARA O GUIA DE TURNO DE EXEMPLO
 ## 12. Exemplos de Jogo
 
 As imagens a seguir apresentam exemplos de situações comuns durante a partida de **Purrfect Kitten**.
@@ -497,7 +491,9 @@ A pontuação final da jogadora é calculada da seguinte forma:
 | **Total** | **[X]** |
 
 Neste exemplo, a jogadora termina a partida com **[X] pontos**.
+FIM DO CONTEÚDO MOVIDO PARA O GUIA DE TURNO DE EXEMPLO -->
 
+<!-- INÍCIO DO CONTEÚDO MOVIDO PARA O GUIA DE REFERENCIAS
 ## 14. Referência Rápida
 
 Esta seção reúne uma referência visual das **Categorias** e dos **Atributos** de **Purrfect Kitten**, para consulta durante a partida.
@@ -533,3 +529,20 @@ Cada **Categoria** possui cinco **Atributos**, identificados por ícones própri
 #### Celebração
 
 > [Inserir ícones dos atributos: **Carnaval**, **Páscoa**, **Festa Junina**, **Halloween** e **Natal**.]
+FIM DO CONTEÚDO MOVIDO PARA O GUIA DE REFERENCIAS -->
+
+## 12. Componentes
+
+Antes de guardar o jogo, confira se todos os componentes de **Purrfect Kitten** estão na caixa:
+
+| Componente | Quantidade | Imagem |
+|---|---:|---|
+| **Cartas Base** com lineart dos gatinhos | 12 | [Inserir imagem das Cartas Base] |
+| **Cartas de Camada** | 88 | [Inserir imagem das Cartas de Camada] |
+| **Cartas de Objetivo Global** | 3 | [Inserir imagem das Cartas de Objetivo Global] |
+| **Cartas de Objetivo Trending** | 28 | [Inserir imagem das Cartas de Objetivo Trending] |
+| **Cartas de Objetivo de Conjunto** | 22 | [Inserir imagem das Cartas de Objetivo de Conjunto] |
+| **Tokens de Pegada** | 16 | [Inserir imagem dos Tokens de Pegada] |
+| **Guia de Referência** | 4 | [Inserir imagem do Guia de Referência] |
+| **Guia de Turno de Exemplo** | 1 | [Inserir imagem do Guia de Turno de Exemplo] |
+| **Manual de Regras** | 1 | [Inserir imagem do Manual] |
