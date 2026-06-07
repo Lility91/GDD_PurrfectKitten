@@ -100,7 +100,10 @@ Os principais objetos do jogo são:<br><br>
 - 01x [Manual](../planilhas/anexo_manual_jogo.md);<br>
  > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
-- 02x ou 04x Sheet de Referências de Categorias/Atributos;<br>
+- 04x [Guia de Referência](../planilhas/anexo_guia_referencia.md);<br>
+ > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
+
+ - 01x [Guia de Turno de Exemplo](../planilhas/anexo_guia_rturno_exemplo.md);<br>
  > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 12x Cartas base com o lineart dos gatinhos;<br>

@@ -280,7 +280,7 @@ Esta página reúne a distribuição base das cartas do baralho, indicando a cam
 </tr>
 <tr>
 <td>2</td>
-<td>Color Point</td>
+<td>Tabby</td>
 <td>Paleta</td>
 <td>Neutro</td>
 <td>Celebração</td>
@@ -288,7 +288,7 @@ Esta página reúne a distribuição base das cartas do baralho, indicando a cam
 </tr>
 <tr>
 <td>2</td>
-<td>Mink</td>
+<td>Half-Color</td>
 <td>Vibe</td>
 <td>Elegante</td>
 <td>Paleta</td>
@@ -328,7 +328,7 @@ Esta página reúne a distribuição base das cartas do baralho, indicando a cam
 </tr>
 <tr>
 <td>2</td>
-<td>Tabby</td>
+<td>Mackarel Tabby</td>
 <td>Origem</td>
 <td>Natural</td>
 <td>Paleta</td>
@@ -344,7 +344,7 @@ Esta página reúne a distribuição base das cartas do baralho, indicando a cam
 </tr>
 <tr>
 <td>2</td>
-<td>Macktabby</td>
+<td>Siamese</td>
 <td>Tema</td>
 <td>Comédia</td>
 <td>Celebração</td>
@@ -368,7 +368,7 @@ Esta página reúne a distribuição base das cartas do baralho, indicando a cam
 </tr>
 <tr>
 <td>2</td>
-<td>Siamese</td>
+<td>Syberian</td>
 <td>Vibe</td>
 <td>Fofo</td>
 <td>Tema</td>
