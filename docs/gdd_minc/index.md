@@ -89,7 +89,7 @@ Para consulta detalhada da distribuição das cartas e do balanceamento entre ca
 
 ### Movimentação dentro do Game / Física
 Como se trata de um jogo analógico de cartas, não há movimentação espacial de personagem. A interação física mais próxima de uma movimentação é o uso de tokens de patas para adquirir cartas mais para frente na fila de compras.
-![Exemplos de funcionamento de uso dos Tokens de Pegada](reference/Paw_Token.jpg)
+![Exemplos de funcionamento de uso dos Tokens de Pegada](final/PK_Table.png)
 
 ### Objetos
 Os principais objetos do jogo são:<br><br>
@@ -97,25 +97,31 @@ Os principais objetos do jogo são:<br><br>
 - 01x Caixa;<br>
 
 - 01x [Manual](../planilhas/anexo_manual_jogo.md);<br>
+![Arquivo do Manual](final/manual/PK_Manual.png)<br>
 
 - 04x [Guia de Referência](../planilhas/anexo_guia_referencia.md) (APENAS NA VERSÃO FINAL DO JOGO); <br>
 
- - 01x [Guia de Turno de Exemplo](../planilhas/anexo_guia_rturno_exemplo.md) (APENAS NA VERSÃO FINAL DO JOGO);<br>
+- 01x [Guia de Turno de Exemplo](../planilhas/anexo_guia_rturno_exemplo.md) (APENAS NA VERSÃO FINAL DO JOGO);<br>
 
 - 12x Cartas base com o lineart dos gatinhos;<br>
+![Arquivo do Manual](final/PK_Objetivos_Conjunto.png)<br>
 
 - 87x [Cartas de camadas](../planilhas/anexo_atributos_cartas.md) impressas em transparência;<br>
+![Layout da Carta de Camada](final/gifs/layers.gif)<br>
 
 - 03x Cartas de [objetivos globais](../planilhas/anexo_objetivos_globais.md);<br>
+![Arquivo do Manual](final/PK_Objetivos_Globais.png)<br>
 
 - 27x Cartas de [objetivos trending](../planilhas/anexo_objetivos_trending.md);<br>
+![Arquivo do Manual](final/PK_Objetivos_Trending.png)<br>
 
 - 22x Cartas de [objetivos de conjunto](../planilhas/anexo_objetivos_conjunto.md);<br>
+![Arquivo do Manual](final/PK_Objetivos_Conjunto.png)<br>
 
 - 16x Tokens de pegadas.<br>
  - ![Modelo em 3D](reference/Token.png)
-  - ![Conjunto de Tokens para um jogador](final/tokens_mao.png)
-  - ![Token de perto](final/token_focus.png)
+ - ![Conjunto de Tokens para um jogador](final/tokens_mao.png)
+ - ![Token de perto](final/token_focus.png)
 
 As cartas base funcionam como suporte visual para a composição final. As cartas de camada acrescentam cor, padrão de pelagem/mutações e acessórios, além dos atributos usados para pontuação.
 
@@ -256,14 +262,13 @@ A interface é constituída pelo layout das cartas, lineart base, símbolos de a
 
 #### Layout das Cartas
 - Cartas da Camada:<br>
- ![Layout de Exemplo da Carta de Camada](final/gifs/Clip_Layer_Cards.mp4)<br>
+ ![Layout da Carta de Camada](final/gifs/layers.gif)<br>
 - Cartas de Objetivos:<br>
- ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objectives.jpg)<br>
- ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Conjunto-02.jpg)<br>
- ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Globais_Prancheta_1.jpg)<br>
- ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Globais-02.jpg)<br>
- ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Trending_Prancheta_1.)<br>
- ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Trending-02.jpg)<br>
+ ![Layout Carta de Objetivos](final/gifs/challenges.gif)<br>
+
+#### Layout do Manual
+- Páginas do Manual:<br>
+ ![Layout das Páginas do Manual](final/gifs/manual.gif)<br>
 
 #### Símbolos dos Atributos
 ![Atributos conforme manual](final/manual/PK_Manual_1a4-03.jpg)
@@ -324,7 +329,8 @@ Não se aplica.
 ### Requerimentos de Rede
 Não se aplica.
 
-### Para melhor visualização dos gifs acesse online em: https://lility91.github.io/GDD_PurrfectKitten/gdd_minc/
+### Para melhor visualização dos gifs acesse online em: 
+- https://lility91.github.io/GDD_PurrfectKitten/gdd_minc/
 
 ---
 
@@ -334,6 +340,5 @@ São Paulo, 07 de abril de 2026.
 São Paulo, 22 de junho de 2026.
 
 ## Responsável
-Giovanna Saggiomo
-
-[def]: final/objetivos/PK_Objectives.jpg
+Giovanna Saggiomo (BatCult Studio);<br>
+![Logo e Contato](final/fim_making_of.png)
