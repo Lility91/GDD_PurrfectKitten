@@ -10,7 +10,7 @@
 **Purrfect Kitten**
 
 ### High Concept do Game
-Jogo analógico de cartas onde o jogador adquire cartas através de draft e monta seus gatinhos em camadas, combinando cartas para cumprir objetivos visuais e temáticos.
+Jogo analógico de cartas em que os jogadores adquirem Cartas de Camada na Área de Compra e montam três gatos em sobreposição, combinando atributos para cumprir Objetivos Globais, Trending e de Conjunto.
 
 ---
 
@@ -27,8 +27,8 @@ O público tende a preferir jogos rápidos, com forte apelo visual, identidade m
 ### Game Flow
 | Etapa | O que acontece |
 |---|---|
-| Preparação | São distribuídas na mesa as seguintes cartas: O desafio global da partida e os desafios de trend; As cartas de peças de gato, após embaralhadas, são distribuídas em duas filas de 5 cartas cada deixando um vão entre elas; O baralho de cartas de peça de gato é colocado ao lado do vão entre as cartas. Cada jogador recebe três cartas de lineart de gato, quatro tokens de pegada e um objetivo de conjunto escondido. O jogador com mais gatos (ou o último jogador a interagir com um gato começa). |
-| Turno | O jogador pode pegar uma das cartas na ponta da fila mais afastada do baralho sem pagar token nenhum, ou usar seus tokens de pegada para "andar" pela linha entre as duas filas de cartas e comprar uma das cartas do espaço imediatamente à frente dele. Além disso, ele também pode combinar 3 cartas de sua mão para montar um gato e avançar em seus objetivos escondidos ou completar um dos objetivos de trend da mesa. Caso ele conclua um objetivo de trend, ele adquiri aquela carta. |
+| Preparação | Revele 1 Objetivo Global no centro da mesa. Prepare três pilhas de Objetivos Trending e revele a primeira carta de cada uma. Cada jogador recebe 3 Objetivos de Conjunto, escolhe 1 para manter em segredo e devolve os demais. Embaralhe as Cartas de Camada e forme duas filas de 5 cartas, com um caminho entre elas. Cada jogador recebe 3 Cartas Base e 4 Tokens de Pegada. |
+| Turno | Em seu turno, o jogador escolhe apenas uma ação: pegar uma Carta de Camada ou montar um gato. Para pegar cartas, pode escolher gratuitamente uma carta da ponta mais afastada do baralho ou gastar Tokens de Pegada para alcançar cartas mais próximas. Ao montar, pode usar até uma carta de cada camada sobre uma Carta Base. Após a montagem, verifica se cumpriu algum Objetivo Trending revelado. |
 | Montagem | As cartas transparentes e/ou sobrepostas formam visualmente os gatos com atributos específicos. |
 | Pontuação | Os jogadores verificam objetivos cumpridos ao final do jogo e somam pontos. |
 | Encerramento | O jogo termina quando todos os jogadores tiverem montado seus três gatos; vence quem tiver mais pontos. |
@@ -48,9 +48,9 @@ A progressão acontece ao longo da própria partida, conforme os jogadores compl
 
 ### Estrutura de Missões/Desafios
 Os desafios do jogo são dados pelas cartas de objetivo. No jogos temos três tipos de objetivo: 
- - [Objetivos globais](../planilhas/anexo_objetivos_globais.md): Permanentes durante todo o jogo dando pontos extras aos jogadores ao fim do jogo por cada gato concluído;
- - [Objetivos trending](../planilhas/anexo_objetivos_trending.md): Combinações de Atributos específicos e temáticos que são distribuídos em 3 pilhas na mesa no início do jogo e coletados pelo jogador ao completá-los;
- - [Objetivos de conjunto](../planilhas/anexo_objetivos_conjunto.md) (Escondidos): Cada jogador recebe três no início do jogo e escolhe um para manter, eles são referentes ao conjunto de três gatos montados pelo jogador durante o jogo.
+ - [Objetivos globais](../planilhas/anexo_objetivos_globais.md): um objetivo comum, revelado no início da partida e pontuado por todos ao final do jogo;
+ - [Objetivos trending](../planilhas/anexo_objetivos_trending.md): combinações específicas de atributos organizadas em três pilhas e disputadas durante a partida;
+ - [Objetivos de conjunto](../planilhas/anexo_objetivos_conjunto.md): objetivos secretos. Cada jogador recebe três cartas, escolhe uma e a avalia ao final com base em seus três gatos montados.
 
 ### Objetivos
 O objetivo do jogador é conseguir a maior pontuação possível em seus gatinhos e/ou conjuntos de gatinhos ao final da partida.
@@ -77,7 +77,7 @@ As regras explícitas definem como os gatos podem ser montados e como os objetiv
 
 #### Balanceamento de Categorias e Atributos por Carta de Camada
 
-O baralho de 88 cartas de camada foi estruturado para distribuir os atributos do jogo de forma equilibrada entre as cinco categorias principais, sustentando tanto a variedade visual dos gatos quanto a diversidade de objetivos possíveis durante a partida.
+O baralho de 87 cartas de camada foi estruturado para distribuir os atributos do jogo de forma equilibrada entre as cinco categorias principais, sustentando tanto a variedade visual dos gatos quanto a diversidade de objetivos possíveis durante a partida.
 
 Cada carta de camada apresenta dois atributos, e a distribuição dessas combinações foi pensada para favorecer diferentes tipos de leitura estratégica: repetição de categorias, contraste entre categorias distintas, combinações temáticas específicas e objetivos de conjunto.
 
@@ -95,35 +95,27 @@ Como se trata de um jogo analógico de cartas, não há movimentação espacial 
 Os principais objetos do jogo são:<br><br>
 
 - 01x Caixa;<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 01x [Manual](../planilhas/anexo_manual_jogo.md);<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
-- 04x [Guia de Referência](../planilhas/anexo_guia_referencia.md);<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
+- 04x [Guia de Referência](../planilhas/anexo_guia_referencia.md) (APENAS NA VERSÃO FINAL DO JOGO); <br>
 
- - 01x [Guia de Turno de Exemplo](../planilhas/anexo_guia_rturno_exemplo.md);<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
+ - 01x [Guia de Turno de Exemplo](../planilhas/anexo_guia_rturno_exemplo.md) (APENAS NA VERSÃO FINAL DO JOGO);<br>
 
 - 12x Cartas base com o lineart dos gatinhos;<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
-- 88x [Cartas de camadas](../planilhas/anexo_atributos_cartas.md) impressas em transparência;<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
+- 87x [Cartas de camadas](../planilhas/anexo_atributos_cartas.md) impressas em transparência;<br>
 
 - 03x Cartas de [objetivos globais](../planilhas/anexo_objetivos_globais.md);<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
-- 28x Cartas de [objetivos trending](../planilhas/anexo_objetivos_trending.md);<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
+- 27x Cartas de [objetivos trending](../planilhas/anexo_objetivos_trending.md);<br>
 
 - 22x Cartas de [objetivos de conjunto](../planilhas/anexo_objetivos_conjunto.md);<br>
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
 
 - 16x Tokens de pegadas.<br>
  - ![Modelo em 3D](reference/Token.png)
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br><br>
+  - ![Conjunto de Tokens para um jogador](final/tokens_mao.png)
+  - ![Token de perto](final/token_focus.png)
 
 As cartas base funcionam como suporte visual para a composição final. As cartas de camada acrescentam cor, padrão de pelagem/mutações e acessórios, além dos atributos usados para pontuação.
 
@@ -142,28 +134,22 @@ A comunicação do jogo é majoritariamente visual, apoiada por símbolos de atr
 Não há combate. O conflito é indireto, centrado na aquisição de cartas que, por vezes, podem ser aquelas que seus oponentes queriam ou no ato de completar um objetivo que outro jogador estava tentando completar.
 
 ### Economia
-Até o momento, o jogo não apresenta economia tradicional com moedas ou ouro. Os tokens de pegada, usados para comprar cartas mais próximas do baralho (avançadas) nas filas de compra são o mais próximo que temos de uma economia e nesse caso é um jogo de economia fechada, nunca existem mais do que 16 pegadas em jogo.
+Os Tokens de Pegada funcionam como um recurso de economia fechada: existem apenas 16 tokens em jogo, redistribuídos conforme os jogadores escolhem cartas na Área de Compra.
 
 ### Opções de Jogo
-Por enquanto, o jogo apresenta apenas um modo (o modo descrito acima), porém, é possível:<br>
- - Um modo sem pontuação, caso seja necessário tornar o jogo mais casual ainda;<br>
- - Um modo onde o jogo acaba quando o primeiro jogador terminar seu terceiro gato, mesmo que os demais não tenham completado os seus, para tornar o jogo ainda mais competitivo e rápido.<br>
+Purrfect Kitten possui três formas de jogo:
 
- Tais mudanças podem afetar a duração do jogo além de seu nível de complexidade/desafio.
+* **Regra padrão:** a partida termina quando todos os jogadores montarem seus três gatos;
+* **Variação Competitiva:** a partida termina assim que o primeiro jogador monta seu terceiro gato;
+* **Variação Casual:** os jogadores podem jogar sem objetivos ou apenas com um Objetivo Global, priorizando a criação visual dos gatos.
+
+As variações alteram o ritmo, o nível de competição e a complexidade da partida.
 
 ### Salvar & Replay
 Por ser um jogo analógico, não há sistema de save. A rejogabilidade vem da recombinação das cartas e da variedade de objetivos.
 
 ### Easter Eggs, Cheats e conteúdo bônus
-Algumas cartas trazem referências específicas à cultura geek/nerd, são elas:<br>
-
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
-
-Além das cartas de camadas, alguns objetivos também trazem referências específicas, como:<br>
-
- > [Inserir Imagem ao Fim do Desenvolvimento.] <br>
-
----
+Algumas cartas de camada trazem referências específicas à cultura geek/nerd, em especial na camada 3. Além das cartas de camadas, alguns objetivos também trazem referências específicas.
 
 ## 4. Arte do Game
 
@@ -270,12 +256,17 @@ A interface é constituída pelo layout das cartas, lineart base, símbolos de a
 
 #### Layout das Cartas
 - Cartas da Camada:<br>
- ![Layout de Exemplo da Carta de Camada](reference/Diagramacao_Carta_Camada.png)<br>
+ ![Layout de Exemplo da Carta de Camada](final/gifs/Clip_Layer_Cards.mp4)<br>
 - Cartas de Objetivos:<br>
- ![Layout de Exemplo da Carta de Objetivos](reference/Diagramacao_Carta_Desafio.png)
+ ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objectives.jpg)<br>
+ ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Conjunto-02.jpg)<br>
+ ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Globais_Prancheta_1.jpg)<br>
+ ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Globais-02.jpg)<br>
+ ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Trending_Prancheta_1.)<br>
+ ![Layout de Exemplo da Carta de Objetivos](final/objetivos/PK_Objetivos_Trending-02.jpg)<br>
 
 #### Símbolos dos Atributos
- > [Inserir Imagem ao Fim do Desenvolvimento.]
+![Atributos conforme manual](final/manual/PK_Manual_1a4-03.jpg)
 
 ### Sistema de Controle
 O controle do jogo é manual e físico, feito por posicionamento, sobreposição e manuseio das cartas.
@@ -310,7 +301,8 @@ Não se aplica.
 
 #### Versão 1.0:
  - Ipad;
- - PC.
+ - PC;
+ - Impressora 3D Elegoo Mars 2P.
 
 ### Hardware e Software de Desenvolvimento
 
@@ -318,21 +310,30 @@ Não se aplica.
  - Folha sultife;
  - Lápis;
  - Borracha;
- - Canetas coloridas.
+ - Canetas coloridas;
+ - Mini clipes;
+ - Sleeves.
 
 #### Versão 1.0:
- - Procreate (Ilustrações);
- - Illustrator (Interface e Símbolos);
+ - Illustrator;
+ - DaVinci Resolve;
+ - Blender 5.0;
  - Visual Studio Code (GDD);
  - GitHub (Armazenamento de Informações e Acesso ao GDD).
 
 ### Requerimentos de Rede
 Não se aplica.
 
+### Para melhor visualização dos gifs acesse online em: https://lility91.github.io/GDD_PurrfectKitten/gdd_minc/
+
 ---
 
 ## Local e data
 São Paulo, 07 de abril de 2026.
+## Atualizado
+São Paulo, 22 de junho de 2026.
 
 ## Responsável
 Giovanna Saggiomo
+
+[def]: final/objetivos/PK_Objectives.jpg
